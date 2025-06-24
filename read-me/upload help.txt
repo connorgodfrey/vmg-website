@@ -1,0 +1,12 @@
+npx @11ty/eleventy
+
+
+git add src/ .eleventy.js
+
+git status
+
+
+git commit -m "Describe what you changed"
+
+
+git push
