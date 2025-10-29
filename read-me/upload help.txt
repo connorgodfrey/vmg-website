@@ -1,12 +1,11 @@
+TO UPDATE:
+cd ~/Documents/vmg-website
+
 npx @11ty/eleventy
 
-
-git add src/ .eleventy.js
-
-git status
-
-
+git add .
 git commit -m "Describe what you changed"
-
-
 git push
+
+OTHER COMMANDS:
+
