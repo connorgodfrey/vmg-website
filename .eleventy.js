@@ -1,13 +1,20 @@
-// .eleventy.js (root of your project)
 module.exports = function(eleventyConfig) {
-  // Pass through entire assets folder (relative to project root) into output
+  // Passthrough copy for assets (e.g., images, logo)
   eleventyConfig.addPassthroughCopy("src/assets");
 
-  // (Optional) ensure copy behavior during local dev serve
-  eleventyConfig.setServerPassthroughCopyBehavior("copy");
+  // Treat .njk, .md, and .html as valid templates
+  eleventyConfig.setTemplateFormats(["njk", "md", "html"]);
 
-  // Let Eleventy process .njk, .md, and also copy .css/.js if those files are in src
-  eleventyConfig.setTemplateFormats(["njk", "md", "css", "js", "jpg", "png"]);
+  // Enable front matter parsing in .njk files
+  eleventyConfig.setFrontMatterParsingOptions({
+    delimiters: "---",
+    excerpt: false
+  });
+
+  // Add a collection for blog posts
+  eleventyConfig.addCollection("blog", function (collection) {
+    return collection.getFilteredByTag("blog");
+  });
 
   return {
     dir: {
