@@ -4,6 +4,7 @@ date: 2025-10-31
 tags:
   - blog
 layout: layout.njk
+description: "How SAFEs compare with convertible notes and equity rounds—guidance for founders evaluating early-stage startup financing options."
 ---
 
 ## SAFEs vs. Convertible Notes or Equity: Why 'Simple' Isn't Always Better
