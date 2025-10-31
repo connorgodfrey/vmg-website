@@ -1,4 +1,7 @@
-module.exports = function(eleventyConfig) {
+// .eleventy.js
+const { DateTime } = require("luxon");
+
+module.exports = function (eleventyConfig) {
   // Passthrough copy for assets (e.g., images, logo)
   eleventyConfig.addPassthroughCopy("src/assets");
 
@@ -8,19 +11,29 @@ module.exports = function(eleventyConfig) {
   // Enable front matter parsing in .njk files
   eleventyConfig.setFrontMatterParsingOptions({
     delimiters: "---",
-    excerpt: false
+    excerpt: false,
   });
 
-  // Add blog collection (posts tagged 'blog')
-  eleventyConfig.addCollection("blog", function(collectionApi) {
+  // Blog collection (posts tagged 'blog')
+  eleventyConfig.addCollection("blog", (collectionApi) => {
     return collectionApi.getFilteredByTag("blog");
+  });
+
+  // Robust date filter (Eastern time). Accepts Date or ISO string.
+  eleventyConfig.addFilter("date", (dateObj, format = "MMMM d, yyyy") => {
+    if (!dateObj) return "";
+    const dt =
+      dateObj instanceof Date
+        ? DateTime.fromJSDate(dateObj, { zone: "America/New_York" })
+        : DateTime.fromISO(String(dateObj), { zone: "America/New_York" });
+    return dt.isValid ? dt.toFormat(format) : "";
   });
 
   return {
     dir: {
       input: "src",
       includes: "_includes",
-      output: "_site"
-    }
+      output: "_site",
+    },
   };
 };
