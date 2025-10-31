@@ -5,13 +5,17 @@ eleventyExcludeFromCollections: true
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 {%- for item in collections.all %}
-  {%- if item.url and item.url.startsWith('/') %}
+  {%- if item.url and item.url[0] == '/' %}
   <url>
-    <loc>{{ site.url }}{{ item.url }}</loc>
-    {# Use your custom date filter to produce YYYY-MM-DD in ET #}
+    <loc>https://vmgba.com{{ item.url }}</loc>
     <lastmod>{{ (item.date or item.data.date) | date("yyyy-MM-dd") }}</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>{{ item.url == '/' ? '1.0' : '0.7' }}</priority>
+    {# home gets higher priority #}
+    {%- if item.url == '/' -%}
+      <priority>1.0</priority>
+    {%- else -%}
+      <priority>0.7</priority>
+    {%- endif -%}
   </url>
   {%- endif %}
 {%- endfor %}
