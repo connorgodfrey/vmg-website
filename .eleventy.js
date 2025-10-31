@@ -11,9 +11,9 @@ module.exports = function(eleventyConfig) {
     excerpt: false
   });
 
-  // Add a collection for blog posts
-  eleventyConfig.addCollection("blog", function (collection) {
-    return collection.getFilteredByTag("blog");
+  // Add blog collection (posts tagged 'blog')
+  eleventyConfig.addCollection("blog", function(collectionApi) {
+    return collectionApi.getFilteredByTag("blog");
   });
 
   return {
