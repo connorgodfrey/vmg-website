@@ -1,8 +1,9 @@
 ---
-title: SAFEs vs. Convertible Notes or Equity: Why “Simple” Isn’t Always Better
+title: "SAFEs vs. Convertible Notes or Equity: Why 'Simple' Isn't Always Better"
+date: 2025-10-31
+tags:
+  - blog
 layout: layout.njk
-date: 2025-10-16
-tags: blog
 ---
 
 <img src="/assets/blog1safe.png" alt="SAFE vs Convertible Notes" style="width:100%; border-radius: 8px; margin-bottom: 20px;">
