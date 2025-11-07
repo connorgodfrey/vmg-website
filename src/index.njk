@@ -4,16 +4,28 @@ layout: layout.njk
 ---
 
 <style>
-  main {
-    padding-top: 25px !important; /* reduce top whitespace ~75% */
+  /* reduce top whitespace above hero ~75% */
+  main { padding-top: 25px !important; }
+
+  /* hero spacing below image ~60% reduction */
+  .hero { margin-bottom: 16px; }
+
+  /* two-column list on desktop, single column on mobile */
+  .pa-list { 
+    font-size: 1.1em; 
+    line-height: 1.8; 
+    margin: 0; 
+    padding-left: 1.25rem; /* keep bullets aligned */
+  }
+  @media (min-width: 900px) {
+    .pa-list {
+      display: grid;
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+      column-gap: 24px;
+    }
+    .pa-list li { margin-bottom: 0.2em; }
   }
 </style>
-
-<div style="margin-bottom: 40px;">
-  <img src="/assets/lighthouse.jpg" alt="Lighthouse" style="width: 100%; border-radius: 8px;">
-</div>
-
-<h1 style="text-align: center; font-size: 2em; margin-bottom: 20px;">VMG Business Advisory, PLLC</h1>
 
 <p style="text-align: center; font-size: 1.2em;">
   Corporate & Transactional Counsel.<br>
