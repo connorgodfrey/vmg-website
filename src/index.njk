@@ -27,18 +27,24 @@ layout: layout.njk
   }
 </style>
 
+<div class="hero">
+  <img src="/assets/lighthouse.jpg" alt="Lighthouse" style="width: 100%; border-radius: 8px;">
+</div>
+
+<h1 style="text-align: center; font-size: 2em; margin-bottom: 20px;">VMG Business Advisory, PLLC</h1>
+
 <p style="text-align: center; font-size: 1.2em;">
   Corporate & Transactional Counsel.<br>
   Practical legal and strategic guidance for businesses, founders, and investors.
 </p>
 
-<h2><a href="/practice-areas/" style="text-decoration: none; color: inherit;">Practice Areas:</a></h2>
+<h2><a href="/practice-areas/" style="text-decoration: none; color: inherit;">Practice Areas</a></h2>
 
-<ul style="font-size: 1.1em; line-height: 1.8;">
+<ul class="pa-list">
   <li>Corporate Governance</li>
-  <li>Private Placements & Securities</li>
-  <li>Mergers & Acquisitions</li>
-  <li>Venture Capital & SAFE Negotiation</li>
+  <li>Private Placements &amp; Securities</li>
+  <li>Mergers &amp; Acquisitions</li>
+  <li>Venture Capital &amp; SAFE Negotiation</li>
   <li>Start-Up Counseling</li>
   <li>Professional Service Entities</li>
   <li>Not for Profit Entities</li>
@@ -46,23 +52,4 @@ layout: layout.njk
   <li>Outside General Counsel Services</li>
 </ul>
 
-<hr style="margin: 36px 0;">
-
-{% set latest = collections.blog | reverse | first %}
-{% if latest %}
-  <section>
-    <h2 style="margin-bottom: 12px;">Latest from the Blog</h2>
-    <h3 style="margin-top: 0.2rem; margin-bottom: 0.8rem;">
-      <a href="{{ latest.url }}" style="text-decoration: none; color: inherit;">
-        {{ latest.data.title }}
-      </a>
-    </h3>
-
-    {% set img = latest.templateContent | firstImageSrc %}
-    {% if img %}
-      <a href="{{ latest.url }}">
-        <img src="{{ img }}" alt="{{ latest.data.title }}" style="width: 100%; border-radius: 8px;">
-      </a>
-    {% endif %}
-  </section>
-{% endif %}
+{# latest blog block you added can remain below here #}
