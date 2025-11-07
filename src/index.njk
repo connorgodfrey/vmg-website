@@ -52,4 +52,24 @@ layout: layout.njk
   <li>Outside General Counsel Services</li>
 </ul>
 
-{# latest blog block you added can remain below here #}
+<hr style="margin: 36px 0;">
+
+{% set latest = collections.blog | reverse | first %}
+{% if latest %}
+  <section>
+    <h2 style="margin-bottom: 12px;">Latest from the Blog</h2>
+    <h3 style="margin-top: 0.2rem; margin-bottom: 0.8rem;">
+      <a href="{{ latest.url }}" style="text-decoration: none; color: inherit;">
+        {{ latest.data.title }}
+      </a>
+    </h3>
+
+    {% set img = latest.templateContent | firstImageSrc %}
+    {% if img %}
+      <a href="{{ latest.url }}">
+        <img src="{{ img }}" alt="{{ latest.data.title }}" style="width: 100%; border-radius: 8px;">
+      </a>
+    {% endif %}
+  </section>
+{% endif %}
+
