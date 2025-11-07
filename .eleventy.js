@@ -29,6 +29,14 @@ module.exports = function (eleventyConfig) {
     return dt.isValid ? dt.toFormat(format) : "";
   });
 
+// Extract first <img src="..."> from rendered content
+eleventyConfig.addFilter("firstImageSrc", (html) => {
+  if (!html) return null;
+  const m = String(html).match(/<img[^>]+src=["']([^"']+)["']/i);
+  return m ? m[1] : null;
+});
+
+
   return {
     dir: {
       input: "src",
