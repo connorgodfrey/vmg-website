@@ -1,25 +1,25 @@
 // .eleventy.js
 const { DateTime } = require("luxon");
 
-module.exports = function (eleventyConfig) {
-  // Passthrough copy for assets (e.g., images, logo)
+module.exports = function(eleventyConfig) {
+  // Copy static assets from src/assets → /assets
   eleventyConfig.addPassthroughCopy("src/assets");
 
-  // Treat .njk, .md, and .html as valid templates
+  // Valid template formats
   eleventyConfig.setTemplateFormats(["njk", "md", "html"]);
 
-  // Enable front matter parsing in .njk files
+  // Front matter in .njk files
   eleventyConfig.setFrontMatterParsingOptions({
     delimiters: "---",
     excerpt: false,
   });
 
-  // Blog collection (posts tagged 'blog')
-  eleventyConfig.addCollection("blog", (collectionApi) => {
-    return collectionApi.getFilteredByTag("blog");
+  // Blog collection: all markdown files in src/blog
+  eleventyConfig.addCollection("blog", function(collectionApi) {
+    return collectionApi.getFilteredByGlob("./src/blog/*.md");
   });
 
-  // Robust date filter (Eastern time). Accepts Date or ISO string.
+  // Date filter using Luxon in ET
   eleventyConfig.addFilter("date", (dateObj, format = "MMMM d, yyyy") => {
     if (!dateObj) return "";
     const dt =
@@ -29,13 +29,12 @@ module.exports = function (eleventyConfig) {
     return dt.isValid ? dt.toFormat(format) : "";
   });
 
-// Extract first <img src="..."> from rendered content
-eleventyConfig.addFilter("firstImageSrc", (html) => {
-  if (!html) return null;
-  const m = String(html).match(/<img[^>]+src=["']([^"']+)["']/i);
-  return m ? m[1] : null;
-});
-
+  // Extract first <img src="..."> from rendered HTML
+  eleventyConfig.addFilter("firstImageSrc", (html) => {
+    if (!html) return null;
+    const m = String(html).match(/<img[^>]+src=["']([^"']+)["']/i);
+    return m ? m[1] : null;
+  });
 
   return {
     dir: {
