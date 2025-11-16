@@ -3,7 +3,6 @@ title: Templates
 layout: layout.njk
 description: "Download editable form documents."
 ---
-
 <style>
   /* Scoped styles – affect only this page */
   .tpl-wrap { margin-top: 8px; }
@@ -46,14 +45,26 @@ description: "Download editable form documents."
     font-weight: 600;
   }
   .btn:hover { background: #001f3f10; }
+  
+  .external-resources {
+    margin-top: 48px;
+  }
+  .external-resources ul {
+    list-style: none;
+    padding: 0;
+  }
+  .external-resources li {
+    margin-bottom: 16px;
+  }
+  .external-resources a {
+    color: #001f3f;
+    font-weight: 600;
+  }
 </style>
-
 <h2>Templates</h2>
-
 <p class="tpl-wrap">
   Download editable templates. These are starting points and not legal advice; adapt to your transaction.
 </p>
-
 <div class="tpl-grid">
   {% for t in templates %}
     <div class="tpl-card">
@@ -65,4 +76,16 @@ description: "Download editable form documents."
       </a>
     </div>
   {% endfor %}
+</div>
+
+<div class="external-resources">
+  <h2>External Resources</h2>
+  <ul>
+    <li>
+      <a href="https://www.ycombinator.com/documents" target="_blank" rel="noopener noreferrer">Y Combinator Documents</a> – Y Combinator forms are the industry-standard for SAFE Agreements.
+    </li>
+    <li>
+      <a href="https://corp.delaware.gov/frtaxcalc/" target="_blank" rel="noopener noreferrer">Delaware Franchise Tax Calculator</a> – Delaware's franchise tax can create unexpected annual costs for startups, particularly those with high authorized share counts or incorrect calculation methods.
+    </li>
+  </ul>
 </div>
