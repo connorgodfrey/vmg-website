@@ -1,0 +1,68 @@
+---
+title: Templates
+layout: layout.njk
+description: "Download editable form documents."
+---
+
+<style>
+  /* Scoped styles – affect only this page */
+  .tpl-wrap { margin-top: 8px; }
+  .tpl-grid {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 16px;
+  }
+  @media (min-width: 900px) {
+    .tpl-grid {
+      grid-template-columns: repeat(2, minmax(0,1fr));
+      gap: 20px;
+    }
+  }
+  .tpl-card {
+    border: 1px solid #e6e6e6;
+    border-radius: 10px;
+    padding: 14px 16px;
+  }
+  .tpl-card h3 {
+    margin: 0 0 6px 0;
+    font-size: 1.1rem;
+  }
+  .tpl-card p {
+    margin: 0 0 10px 0;
+    line-height: 1.5;
+  }
+  .tpl-meta {
+    font-size: 0.9rem;
+    color: #666;
+    margin-bottom: 10px;
+  }
+  .btn {
+    display: inline-block;
+    padding: 8px 12px;
+    border-radius: 8px;
+    text-decoration: none;
+    border: 1px solid #001f3f;
+    color: #001f3f;
+    font-weight: 600;
+  }
+  .btn:hover { background: #001f3f10; }
+</style>
+
+<h2>Templates</h2>
+
+<p class="tpl-wrap">
+  Download editable templates. These are starting points and not legal advice; adapt to your transaction.
+</p>
+
+<div class="tpl-grid">
+  {% for t in templates %}
+    <div class="tpl-card">
+      <h3>{{ t.name }}</h3>
+      <p class="tpl-meta">Last updated: {{ t.updated | date("MMM d, yyyy") }}</p>
+      <p>{{ t.description }}</p>
+      <a class="btn" href="{{ t.file }}" download type="application/msword" aria-label="Download {{ t.name }}">
+        Download .doc
+      </a>
+    </div>
+  {% endfor %}
+</div>

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Unilateral NDA (Template)",
+    "slug": "unilateral-nda",
+    "file": "/assets/templates/unilateral-nda.doc",
+    "description": "One-way confidentiality agreement for sharing sensitive info with vendors, consultants, or potential partners.",
+    "updated": "2025-10-31"
+  },
+  {
+    "name": "Mutual NDA (Template)",
+    "slug": "mutual-nda",
+    "file": "/assets/templates/mutual-nda.doc",
+    "description": "Two-way confidentiality agreement for bilateral discussions, collaborations, and diligence.",
+    "updated": "2025-10-31"
+  }
+]
