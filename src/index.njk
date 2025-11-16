@@ -83,37 +83,134 @@ layout: layout.njk
   Blog count (home): {{ collections.blog | length }}
 </p>
 
+{% set posts = collections.blog | reverse %}
 
-{% set posts = collections.blog | default([]) %}
-
+{% if posts | length > 0 %}
 <section>
   <h2 style="margin-bottom: 12px;">Latest from the Blog</h2>
 
   <div class="home-blog-list">
-    {% for post in posts | reverse | slice(0, 5) %}
+
+    {# Post 1 #}
+    {% if posts[0] %}
+      {% set p = posts[0] %}
       <article class="home-blog-card">
         <h3>
-          <a href="{{ post.url }}" style="text-decoration: none; color: inherit;">
-            {{ post.data.title }}
+          <a href="{{ p.url }}" style="text-decoration: none; color: inherit;">
+            {{ p.data.title }}
           </a>
         </h3>
-
         <p class="home-blog-meta">
-          {{ post.date | date("MMM d, yyyy") }}
+          {{ p.date | date("MMM d, yyyy") }}
         </p>
-
-        {% set img = post.templateContent | firstImageSrc %}
-        {% if img %}
-          <a href="{{ post.url }}">
-            <img src="{{ img }}" alt="{{ post.data.title }}" style="width: 100%; border-radius: 8px; margin-bottom: 6px;">
-            </a>
+        {% set img0 = p.templateContent | firstImageSrc %}
+        {% if img0 %}
+          <a href="{{ p.url }}">
+            <img src="{{ img0 }}" alt="{{ p.data.title }}" style="width: 100%; border-radius: 8px; margin-bottom: 6px;">
+          </a>
         {% endif %}
-
-        {% if post.data.description %}
-          <p>{{ post.data.description }}</p>
+        {% if p.data.description %}
+          <p>{{ p.data.description }}</p>
         {% endif %}
       </article>
-    {% endfor %}
+    {% endif %}
+
+    {# Post 2 #}
+    {% if posts[1] %}
+      {% set p = posts[1] %}
+      <article class="home-blog-card">
+        <h3>
+          <a href="{{ p.url }}" style="text-decoration: none; color: inherit;">
+            {{ p.data.title }}
+          </a>
+        </h3>
+        <p class="home-blog-meta">
+          {{ p.date | date("MMM d, yyyy") }}
+        </p>
+        {% set img1 = p.templateContent | firstImageSrc %}
+        {% if img1 %}
+          <a href="{{ p.url }}">
+            <img src="{{ img1 }}" alt="{{ p.data.title }}" style="width: 100%; border-radius: 8px; margin-bottom: 6px;">
+          </a>
+        {% endif %}
+        {% if p.data.description %}
+          <p>{{ p.data.description }}</p>
+        {% endif %}
+      </article>
+    {% endif %}
+
+    {# Post 3 #}
+    {% if posts[2] %}
+      {% set p = posts[2] %}
+      <article class="home-blog-card">
+        <h3>
+          <a href="{{ p.url }}" style="text-decoration: none; color: inherit;">
+            {{ p.data.title }}
+          </a>
+        </h3>
+        <p class="home-blog-meta">
+          {{ p.date | date("MMM d, yyyy") }}
+        </p>
+        {% set img2 = p.templateContent | firstImageSrc %}
+        {% if img2 %}
+          <a href="{{ p.url }}">
+            <img src="{{ img2 }}" alt="{{ p.data.title }}" style="width: 100%; border-radius: 8px; margin-bottom: 6px;">
+          </a>
+        {% endif %}
+        {% if p.data.description %}
+          <p>{{ p.data.description }}</p>
+        {% endif %}
+      </article>
+    {% endif %}
+
+    {# Post 4 #}
+    {% if posts[3] %}
+      {% set p = posts[3] %}
+      <article class="home-blog-card">
+        <h3>
+          <a href="{{ p.url }}" style="text-decoration: none; color: inherit;">
+            {{ p.data.title }}
+          </a>
+        </h3>
+        <p class="home-blog-meta">
+          {{ p.date | date("MMM d, yyyy") }}
+        </p>
+        {% set img3 = p.templateContent | firstImageSrc %}
+        {% if img3 %}
+          <a href="{{ p.url }}">
+            <img src="{{ img3 }}" alt="{{ p.data.title }}" style="width: 100%; border-radius: 8px; margin-bottom: 6px;">
+          </a>
+        {% endif %}
+        {% if p.data.description %}
+          <p>{{ p.data.description }}</p>
+        {% endif %}
+      </article>
+    {% endif %}
+
+    {# Post 5 #}
+    {% if posts[4] %}
+      {% set p = posts[4] %}
+      <article class="home-blog-card">
+        <h3>
+          <a href="{{ p.url }}" style="text-decoration: none; color: inherit;">
+            {{ p.data.title }}
+          </a>
+        </h3>
+        <p class="home-blog-meta">
+          {{ p.date | date("MMM d, yyyy") }}
+        </p>
+        {% set img4 = p.templateContent | firstImageSrc %}
+        {% if img4 %}
+          <a href="{{ p.url }}">
+            <img src="{{ img4 }}" alt="{{ p.data.title }}" style="width: 100%; border-radius: 8px; margin-bottom: 6px;">
+          </a>
+        {% endif %}
+        {% if p.data.description %}
+          <p>{{ p.data.description }}</p>
+        {% endif %}
+      </article>
+    {% endif %}
+
   </div>
 </section>
-
+{% endif %}
