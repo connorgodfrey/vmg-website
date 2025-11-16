@@ -26,8 +26,8 @@ An NDA establishes a contractual duty to keep defined information confidential a
 - **Unilateral NDAs** apply when only one side is disclosing information, for example, when a company provides data to a consultant or potential supplier.
 
 **Download sample forms:**
-- [Mutual NDA Template](/templates/mutual-nda)
-- [Unilateral NDA Template](/templates/unilateral-nda)
+- [Mutual NDA Template](/resources/mutual-nda)
+- [Unilateral NDA Template](/resources/unilateral-nda)
 
 These are useful reference points, but only a starting place.
 
