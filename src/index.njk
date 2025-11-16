@@ -80,36 +80,34 @@ layout: layout.njk
 <hr style="margin: 36px 0;">
 
 {% set posts = collections.blog | default([]) %}
-{% if posts | length > 0 %}
-  <section>
-    <h2 style="margin-bottom: 12px;">Latest from the Blog</h2>
 
-    <div class="home-blog-list">
-      {# up to 5 most recent posts #}
-      {% for post in posts | reverse | slice(0, 5) %}
-        <article class="home-blog-card">
-          <h3>
-            <a href="{{ post.url }}" style="text-decoration: none; color: inherit;">
-              {{ post.data.title }}
+<section>
+  <h2 style="margin-bottom: 12px;">Latest from the Blog</h2>
+
+  <div class="home-blog-list">
+    {% for post in posts | reverse | slice(0, 5) %}
+      <article class="home-blog-card">
+        <h3>
+          <a href="{{ post.url }}" style="text-decoration: none; color: inherit;">
+            {{ post.data.title }}
+          </a>
+        </h3>
+
+        <p class="home-blog-meta">
+          {{ post.date | date("MMM d, yyyy") }}
+        </p>
+
+        {% set img = post.templateContent | firstImageSrc %}
+        {% if img %}
+          <a href="{{ post.url }}">
+            <img src="{{ img }}" alt="{{ post.data.title }}" style="width: 100%; border-radius: 8px; margin-bottom: 6px;">
             </a>
-          </h3>
-          <p class="home-blog-meta">
-            {{ post.date | date("MMM d, yyyy") }}
-          </p>
+        {% endif %}
 
-          {% set img = post.templateContent | firstImageSrc %}
-          {% if img %}
-            <a href="{{ post.url }}">
-              <img src="{{ img }}" alt="{{ post.data.title }}" style="width: 100%; border-radius: 8px; margin-bottom: 6px;">
-            </a>
-          {% endif %}
-
-          {% if post.data.description %}
-            <p>{{ post.data.description }}</p>
-          {% endif %}
-        </article>
-      {% endfor %}
-    </div>
-  </section>
-{% endif %}
-
+        {% if post.data.description %}
+          <p>{{ post.data.description }}</p>
+        {% endif %}
+      </article>
+    {% endfor %}
+  </div>
+</section>
