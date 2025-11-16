@@ -79,6 +79,11 @@ layout: layout.njk
 
 <hr style="margin: 36px 0;">
 
+<p style="font-size: 0.8em; color: #888;">
+  Blog count (home): {{ collections.blog | length }}
+</p>
+
+
 {% set posts = collections.blog | default([]) %}
 
 <section>
@@ -111,3 +116,4 @@ layout: layout.njk
     {% endfor %}
   </div>
 </section>
+
