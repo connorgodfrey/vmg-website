@@ -1,6 +1,6 @@
 ---
 title: "Key Structural Decisions When Expanding a Foreign Business into the United States"
-date: 2025-12-01
+date: 2025-12-01T12:00:00
 tags:
   - blog
 layout: layout.njk
