@@ -10,7 +10,7 @@ description: "A practical guide to entity selection, tax considerations, and tim
 
 # Key Structural Decisions When Expanding a Foreign Business into the United States
 
-<img src="/assets/fdi.png" alt="Key Structural Decisions When Expanding a Foreign Business into the United States" style="width:100%; border-radius: 8px; margin-bottom: 20px;">
+<img src="/assets/fdi.png" alt="Key Structural Decisions When Expanding a Foreign Business into the United States" style="width:50%; border-radius: 8px; margin-bottom: 20px;">
 
 Foreign companies entering the United States face a series of legal decisions that define how the business will operate, where risk resides, how value flows, and how the broader group will be positioned for growth. The choice of entity determines governance, liability, taxation, investor expectations, and the way cross-border activities are organized. This memo outlines the practical differences among common structures and highlights where tax considerations typically arise.
 
