@@ -1,6 +1,6 @@
 ---
 title: "Is Crowdfunding Right for Your Business? A Strategic Guide for Founders"
-date: 2025-12-02T12:00:00
+date: 2026-02-06T12:00:00
 tags:
   - blog
 layout: layout.njk
@@ -11,7 +11,7 @@ description: "A practical overview of crowdfunding options for SMBs."
 
 <img src="/assets/crowd.png" alt="Crowdfunding Basics and Benefits for Startups" style="width:50%; border-radius: 8px; margin-bottom: 20px;">
 
-Crowdfunding can be a powerful financing tool, but it is not “easy money.” In 2021, only about 59% of equity crowdfunding campaigns raised any funds at all, and many failed to meet their stated goals. That said, for a prepared company with a compelling story, crowdfunding can serve as a viable alternative—or complement—to angel and venture capital financing.
+Crowdfunding can be a powerful financing tool, but it is not “easy money.” In 2021, only about 59% of equity crowdfunding campaigns raised any funds at all, and many failed to meet their stated goals. That said, for a prepared company with a compelling story, crowdfunding can serve as a viable alternative or complement to angel and venture capital financing.
 
 Crowdfunding also allows companies to engage supporters as investors or backers, potentially increasing loyalty, visibility, and long-term advocacy. It tends to work best when institutional capital is scarce or inaccessible, when a product or mission resonates with a broad audience, or when visibility and engagement are themselves strategic objectives.
 
