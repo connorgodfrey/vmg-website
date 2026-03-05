@@ -39,14 +39,15 @@
       top: 0;
       z-index: 1000;
     }
-    nav a {
+    #main-nav a {
       margin: 0 15px;
       text-decoration: none;
       color: white;
-      font-weight: bold;
+      font-family: 'Lora', Georgia, serif;
+      font-weight: 600;
       white-space: nowrap;
     }
-    nav a:hover {
+    #main-nav a:hover {
       text-decoration: underline;
     }
 
@@ -71,7 +72,7 @@
       .nav-toggle {
         display: flex;
       }
-      nav {
+      #main-nav {
         display: none;
         position: absolute;
         top: 100%;
@@ -83,21 +84,17 @@
         z-index: 999;
         border-top: 1px solid rgba(255,255,255,0.15);
       }
-      nav.open {
+      #main-nav.open {
         display: flex;
       }
-      nav a {
+      #main-nav a {
         margin: 0;
         padding: 10px 0;
         border-bottom: 1px solid rgba(255,255,255,0.1);
         font-size: 15px;
       }
-      nav a:last-child {
+      #main-nav a:last-child {
         border-bottom: none;
-      }
-      header {
-        position: sticky;
-        position: -webkit-sticky;
       }
     }
 
@@ -210,13 +207,6 @@
         <a href="mailto:connor@vmgba.com">connor@vmgba.com</a>
         <a href="tel:+17164252328">716-425-2328</a>
       </div>
-      <nav class="site-footer-nav" aria-label="Footer navigation">
-        <a href="/about/">About</a>
-        <a href="/practice-areas/">Practice Areas</a>
-        <a href="/contact/">Contact</a>
-        <a href="/blog/">Blog</a>
-        <a href="/resources/">Resources</a>
-      </nav>
     </div>
     <div class="site-footer-bottom">
       <p>Admitted to the New York State Bar &mdash; Practicing since 2021</p>
