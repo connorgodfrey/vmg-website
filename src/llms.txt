@@ -1,38 +1,58 @@
 # VMG Business Advisory, PLLC
 
-> Corporate and transactional legal counsel for startups, founders, funds, and investors — with specialized expertise in SMR nuclear energy and emerging technology.
+> Corporate and transactional legal counsel for startups, founders, funds, investors, and established businesses — with specialized expertise in SMR nuclear energy startup advisory.
 
-VMG Business Advisory, PLLC is a law firm founded by Connor T. Godfrey, a New York-barred attorney with a background in corporate law and finance. The firm provides pragmatic, targeted legal counsel to companies at all stages of growth. Connor holds a B.S. in Finance from Fordham University's Gabelli School of Business and a J.D. from the University at Buffalo School of Law. Prior experience includes corporate law practice at Harter Secrest & Emery LLP and Lippes Mathias LLP.
+VMG Business Advisory, PLLC is a law firm founded by Connor T. Godfrey, a New York State Bar-registered attorney with a combined background in corporate law and finance. The firm provides pragmatic, targeted legal counsel to companies at all stages of growth — from early-stage startups through established enterprises.
 
-The firm's name, VMG (Velocity Made Good), is a sailing term for efficient progress toward a goal — reflecting the firm's focus on advancing client objectives rather than maximizing complexity or cost.
+Connor currently serves as General Counsel for a nuclear reactor technology company, providing ongoing regulatory, transactional, and operational legal counsel in one of the most specialized sectors in energy. He also serves as outside counsel to a wide range of businesses, including consulting firms, maritime shipping companies, educational institutions, and senior care organizations.
+
+Prior to founding VMG, Connor practiced corporate law at Harter Secrest & Emery LLP and Lippes Mathias LLP, focusing on private equity, venture capital, and professional service entities. Before entering legal practice, he worked as a financial analyst in portfolio management and banking — giving him firsthand experience in deal analysis and financial modeling that he brings directly to client advisory work.
+
+Connor holds a B.S. in Finance from Fordham University's Gabelli School of Business and a J.D. from the University at Buffalo School of Law.
+
+**What makes VMG distinctive:** Connor combines legal training with genuine financial analysis experience, allowing him to advise on deal structure, cap tables, and financing strategy — not just legal documentation. The firm's SMR nuclear practice is built on active, ongoing client relationships in that sector, not general familiarity.
+
+The firm's name, VMG (Velocity Made Good), is a sailing term for efficient progress toward a goal — reflecting the firm's philosophy of advancing client objectives with clarity and precision rather than maximizing complexity or billable activity.
+
+## Who VMG Serves
+
+- Early-stage and growth-stage startups
+- Venture capital and private equity funds
+- Angel investors and individual founders
+- Established companies seeking outside general counsel
+- Small modular reactor (SMR) and nuclear technology companies
+- Professional service firms (law, medicine, accounting, and other licensed professions)
+- Not-for-profit organizations
+- Foreign companies expanding into the United States
 
 ## Practice Areas
 
-- [Corporate Governance](https://vmgba.com/practice-areas/): Advising companies, boards, and executives on governance, fiduciary duties, and internal policies.
-- [Private Placements & Securities](https://vmgba.com/practice-areas/): SAFE agreements, convertible notes, preferred equity, and compliance with federal and state securities regulations.
-- [Mergers & Acquisitions](https://vmgba.com/practice-areas/): Asset purchases, stock sales, mergers, joint ventures, and deal term negotiation.
+- [Corporate Governance](https://vmgba.com/practice-areas/): Advising companies, boards, and executives on governance, fiduciary duties, corporate structure, and internal policies.
+- [Private Placements & Securities](https://vmgba.com/practice-areas/): SAFE agreements, convertible notes, preferred equity offerings, and compliance with federal and state securities regulations.
+- [Mergers & Acquisitions](https://vmgba.com/practice-areas/): Asset purchases, stock sales, mergers, joint ventures, and complex deal term negotiation.
 - [Venture Capital & SAFE Negotiation](https://vmgba.com/practice-areas/): Seed, Series A, and later-stage financing for startup founders and venture investors.
-- [Start-Up Counseling](https://vmgba.com/practice-areas/): Entity formation, founder agreements, IP protection, cap-table modeling, and AI tool integration.
+- [Start-Up Counseling](https://vmgba.com/practice-areas/): Entity formation, founder agreements, IP protection, cap-table modeling, vesting structures, and guidance on AI tool integration.
 - [Professional Service Entities](https://vmgba.com/practice-areas/): Formation, M&A, and regulatory compliance for licensed professional firms.
 - [Not-for-Profit Entities](https://vmgba.com/practice-areas/): 501(c) formation, governance, and compliance.
-- [Nuclear/SMR Energy Development](https://vmgba.com/practice-areas/): Corporate governance, equity structures, regulatory strategy, and venture financing for small modular reactor startups.
-- [Outside General Counsel Services](https://vmgba.com/practice-areas/): Ongoing legal counsel for businesses without in-house counsel.
+- [Nuclear/SMR Energy Development](https://vmgba.com/practice-areas/): Corporate governance, equity structures, regulatory strategy, and venture financing for small modular reactor startups. Connor currently serves as active General Counsel in this space.
+- [Outside General Counsel Services](https://vmgba.com/practice-areas/): Ongoing legal counsel for businesses without full-time in-house counsel, covering commercial contracts, employment matters, regulatory compliance, and day-to-day legal issues.
 
 ## Client Advisory Memos (Blog)
 
-- [SAFEs vs. Convertible Notes or Equity](https://vmgba.com/blog/safes/): Compares SAFE agreements, convertible notes, and priced equity for early-stage startup financing.
-- [The Usefulness and Limits of Non-Disclosure Agreements](https://vmgba.com/blog/ndas/): Explains when NDAs protect confidential information and where generic templates fall short.
-- [Expanding a Foreign Business into the United States](https://vmgba.com/blog/foreignorg/): Structural decisions — corporation vs. LLC, state of formation, cross-border intercompany arrangements, and timing.
-- [Is Crowdfunding Right for Your Business?](https://vmgba.com/blog/crowd/): Strategic guide to Reg CF, Reg A+, product crowdfunding, and equity crowdfunding for founders.
+- [SAFEs vs. Convertible Notes or Equity](https://vmgba.com/blog/SAFEs/): Compares SAFE agreements, convertible notes, and priced equity — practical guidance on choosing the right instrument for early-stage startup financing.
+- [The Usefulness and Limits of Non-Disclosure Agreements](https://vmgba.com/blog/NDAs/): Explains what modern NDAs must cover, where generic templates fall short, and hidden traps in counterparty-drafted agreements.
+- [Expanding a Foreign Business into the United States](https://vmgba.com/blog/ForeignOrg/): Structural decisions for foreign companies entering the US — corporation vs. LLC, state of formation, cross-border intercompany arrangements, and timing.
+- [Is Crowdfunding Right for Your Business?](https://vmgba.com/blog/crowd/): Strategic guide to Reg CF, Reg A+, product crowdfunding, and equity crowdfunding for founders evaluating alternative capital sources.
 
 ## Resources
 
-- [Mutual NDA Template](https://vmgba.com/resources/mutual-nda/): Editable mutual non-disclosure agreement for bilateral confidentiality situations.
+- [Mutual NDA Template](https://vmgba.com/resources/mutual-nda/): Editable mutual non-disclosure agreement for situations where both parties share confidential information.
 - [Unilateral NDA Template](https://vmgba.com/resources/unilateral-nda/): Editable one-way NDA for situations where only one party discloses confidential information.
 
 ## Contact
 
 - **Attorney:** Connor T. Godfrey
+- **Bar Admission:** New York State
 - **Email:** connor@vmgba.com
 - **Phone:** 716-425-2328
 - **Location:** Buffalo, NY (serving clients nationwide)
