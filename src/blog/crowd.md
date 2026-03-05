@@ -130,4 +130,4 @@ VMG Business Advisory can assist with legal compliance, disclosure strategy, pla
 
 ---
 
-**Related practice areas:** [Private Placements &amp; Securities](/practice-areas/private-placements-securities/) · [Start-Up Counseling](/practice-areas/startup-counseling/)
+**Related practice areas:** [Private Placements &amp; Securities](/practice-areas/private-placements-securities/) · [Start-Up Counseling](/practice-areas/startup-advisory/)

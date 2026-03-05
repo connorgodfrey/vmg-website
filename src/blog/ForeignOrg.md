@@ -136,6 +136,6 @@ Legal counsel and tax advisers should align early in the process. The legal stru
 
 ---
 
-**Related practice areas:** [Start-Up Counseling](/practice-areas/startup-counseling/) · [Mergers &amp; Acquisitions](/practice-areas/mergers-acquisitions/)
+**Related practice areas:** [Start-Up Counseling](/practice-areas/startup-advisory/) · [Mergers &amp; Acquisitions](/practice-areas/mergers-acquisitions/)
 
 
