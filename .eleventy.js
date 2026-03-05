@@ -1,7 +1,9 @@
 // .eleventy.js
 const { DateTime } = require("luxon");
+const registerShortcodes = require("./_11ty/shortcodes");
 
 module.exports = function(eleventyConfig) {
+  registerShortcodes(eleventyConfig);
   // Copy static assets from src/assets → /assets
   eleventyConfig.addPassthroughCopy("src/assets");
 
