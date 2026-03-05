@@ -134,4 +134,8 @@ The optimal entity form depends on:
 
 Legal counsel and tax advisers should align early in the process. The legal structure and the tax model should be developed in parallel so that entity form, ownership, and intercompany arrangements support both operational and tax objectives. A well-chosen structure simplifies intercompany arrangements, supports growth, and minimizes friction as the U.S. presence evolves.
 
+---
+
+**Related practice areas:** [Start-Up Counseling](/practice-areas/startup-counseling/) · [Mergers &amp; Acquisitions](/practice-areas/mergers-acquisitions/)
+
 

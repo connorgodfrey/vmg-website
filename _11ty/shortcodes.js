@@ -79,4 +79,5 @@ function seoHead(title, description, tags, date, ogImage, noindex) {
 
 module.exports = function registerShortcodes(eleventyConfig) {
   eleventyConfig.addShortcode("seoHead", seoHead);
+  eleventyConfig.addShortcode("year", () => String(new Date().getFullYear()));
 };

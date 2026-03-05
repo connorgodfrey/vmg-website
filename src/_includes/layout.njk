@@ -9,12 +9,24 @@
   <!-- Favicon -->
   <link rel="icon" href="/assets/favicon.ico" type="image/x-icon">
 
+  <!-- Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,600;1,400&display=swap" rel="stylesheet">
+
   <!-- Global styles -->
   <style>
     body {
-      font-family: sans-serif;
+      font-family: system-ui, -apple-system, sans-serif;
+      font-size: 17px;
+      line-height: 1.65;
+      color: #1a1a1a;
       margin: 0;
       padding: 0;
+    }
+    h1, h2, h3, h4, h5, h6 {
+      font-family: 'Lora', Georgia, serif;
+      line-height: 1.25;
     }
     header {
       background-color: #001f3f;
@@ -34,22 +46,126 @@
       font-weight: bold;
       white-space: nowrap;
     }
-    @media (max-width: 600px) {
+    nav a:hover {
+      text-decoration: underline;
+    }
+
+    /* Hamburger button — hidden on desktop */
+    .nav-toggle {
+      display: none;
+      flex-direction: column;
+      gap: 5px;
+      background: none;
+      border: none;
+      cursor: pointer;
+      padding: 6px;
+    }
+    .nav-toggle span {
+      display: block;
+      width: 22px;
+      height: 2px;
+      background: white;
+    }
+
+    @media (max-width: 640px) {
+      .nav-toggle {
+        display: flex;
+      }
+      nav {
+        display: none;
+        position: absolute;
+        top: 100%;
+        left: 0;
+        right: 0;
+        background: #001f3f;
+        flex-direction: column;
+        padding: 8px 20px 16px;
+        z-index: 999;
+        border-top: 1px solid rgba(255,255,255,0.15);
+      }
+      nav.open {
+        display: flex;
+      }
       nav a {
-        font-size: 14px;
-        margin: 0 8px;
+        margin: 0;
+        padding: 10px 0;
+        border-bottom: 1px solid rgba(255,255,255,0.1);
+        font-size: 15px;
+      }
+      nav a:last-child {
+        border-bottom: none;
+      }
+      header {
+        position: sticky;
+        position: -webkit-sticky;
       }
     }
+
     main {
       max-width: 900px;
       margin: auto;
       padding: 30px 20px 40px 20px;
     }
-    footer {
-      text-align: center;
-      margin: 40px 0;
-      color: #666;
+
+    /* Practice area detail pages — accent bar on H2 sections */
+    .pa-detail h2 {
+      border-left: 3px solid #001f3f;
+      padding-left: 0.7rem;
+      margin-top: 2.25rem;
     }
+
+    /* Footer */
+    .site-footer {
+      background: #f7f8fa;
+      border-top: 1px solid #e4e4e4;
+      margin-top: 60px;
+    }
+    .site-footer-inner {
+      max-width: 900px;
+      margin: 0 auto;
+      padding: 40px 20px 28px;
+    }
+    .site-footer-top {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 32px;
+      justify-content: space-between;
+      margin-bottom: 28px;
+    }
+    .site-footer-brand strong {
+      font-family: 'Lora', Georgia, serif;
+      font-size: 1rem;
+      display: block;
+      margin-bottom: 8px;
+      color: #1a1a1a;
+    }
+    .site-footer-brand a {
+      display: block;
+      color: #444;
+      text-decoration: none;
+      margin-bottom: 4px;
+      font-size: 0.95rem;
+    }
+    .site-footer-brand a:hover { text-decoration: underline; }
+    .site-footer-nav {
+      display: flex;
+      flex-direction: column;
+      gap: 6px;
+    }
+    .site-footer-nav a {
+      color: #444;
+      text-decoration: none;
+      font-size: 0.95rem;
+    }
+    .site-footer-nav a:hover { text-decoration: underline; }
+    .site-footer-bottom {
+      border-top: 1px solid #e4e4e4;
+      padding-top: 18px;
+      font-size: 0.8rem;
+      color: #888;
+    }
+    .site-footer-bottom p { margin: 0 0 6px; }
+    .site-footer-bottom p:last-child { margin: 0; }
   </style>
 
 <!-- Google tag (gtag.js) -->
@@ -70,7 +186,10 @@
   <div>
     <a href="/"><img src="/assets/logo2.png" alt="VMG Business Advisory PLLC logo" style="height: 95px;"></a>
   </div>
-  <nav>
+  <button class="nav-toggle" id="nav-toggle" aria-label="Open navigation" aria-expanded="false" aria-controls="main-nav">
+    <span></span><span></span><span></span>
+  </button>
+  <nav id="main-nav">
     <a href="/about/">About</a>
     <a href="/practice-areas/">Practice Areas</a>
     <a href="/contact/">Contact</a>
@@ -79,12 +198,32 @@
   </nav>
 </header>
 
-<main>
+<main class="{% if '/practice-areas/' in page.url and page.url != '/practice-areas/' %}pa-detail{% endif %}">
   {{ content | safe }}
 </main>
 
-<footer>
-  <p>VMG Business Advisory, PLLC. All rights reserved.</p>
+<footer class="site-footer">
+  <div class="site-footer-inner">
+    <div class="site-footer-top">
+      <div class="site-footer-brand">
+        <strong>VMG Business Advisory, PLLC</strong>
+        <a href="mailto:connor@vmgba.com">connor@vmgba.com</a>
+        <a href="tel:+17164252328">716-425-2328</a>
+      </div>
+      <nav class="site-footer-nav" aria-label="Footer navigation">
+        <a href="/about/">About</a>
+        <a href="/practice-areas/">Practice Areas</a>
+        <a href="/contact/">Contact</a>
+        <a href="/blog/">Blog</a>
+        <a href="/resources/">Resources</a>
+      </nav>
+    </div>
+    <div class="site-footer-bottom">
+      <p>Admitted to the New York State Bar &mdash; Practicing since 2021</p>
+      <p>The content on this site is provided for informational purposes only and does not constitute legal advice. Viewing this site or contacting VMG Business Advisory, PLLC does not create an attorney-client relationship.</p>
+      <p>&copy; {% year %} VMG Business Advisory, PLLC. All rights reserved.</p>
+    </div>
+  </div>
 </footer>
 
 {% set metaDesc = description or "VMG Business Advisory, PLLC \u2014 corporate, transactional, and SMR nuclear startup advisory services nationwide." %}
@@ -185,6 +324,18 @@
 {% if pageSchema %}
 {{ pageSchema | safe }}
 {% endif %}
+
+<script>
+  const navToggle = document.getElementById('nav-toggle');
+  const mainNav   = document.getElementById('main-nav');
+  if (navToggle && mainNav) {
+    navToggle.addEventListener('click', function () {
+      const isOpen = mainNav.classList.toggle('open');
+      navToggle.setAttribute('aria-expanded', isOpen ? 'true' : 'false');
+      navToggle.setAttribute('aria-label', isOpen ? 'Close navigation' : 'Open navigation');
+    });
+  }
+</script>
 
 </body>
 </html>

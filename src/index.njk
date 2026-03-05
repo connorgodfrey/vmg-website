@@ -11,20 +11,35 @@ description: "VMG Business Advisory, PLLC — corporate and transactional counse
   /* hero spacing below image ~60% reduction */
   .hero { margin-bottom: 16px; }
 
-  /* two-column list on desktop, single column on mobile */
-  .pa-list { 
-    font-size: 1.1em; 
-    line-height: 1.8; 
-    margin: 0; 
-    padding-left: 1.25rem; /* keep bullets aligned */
+  /* two-column card grid on desktop, single column on mobile */
+  .pa-list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 8px;
   }
-  @media (min-width: 900px) {
+  @media (min-width: 640px) {
     .pa-list {
-      display: grid;
       grid-template-columns: repeat(2, minmax(0, 1fr));
-      column-gap: 24px;
     }
-    .pa-list li { margin-bottom: 0.2em; }
+  }
+  .pa-list li {
+    border: 1px solid #e0e4e8;
+    border-radius: 8px;
+    padding: 10px 14px;
+    transition: border-color 0.15s, box-shadow 0.15s;
+  }
+  .pa-list li:hover {
+    border-color: #001f3f;
+    box-shadow: 0 2px 8px rgba(0,31,63,0.1);
+  }
+  .pa-list li a {
+    text-decoration: none;
+    color: #001f3f;
+    font-weight: 500;
+    font-size: 1rem;
   }
 
   /* Latest from the Blog cards */
