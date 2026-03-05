@@ -4,7 +4,7 @@ date: 2026-02-06T12:00:00
 tags:
   - blog
 layout: layout.njk
-description: "A practical overview of crowdfunding options for SMBs."
+description: "Equity crowdfunding, Reg CF, Reg A+, and product crowdfunding explained — a strategic guide for founders evaluating crowdfunding as a capital-raising tool."
 ---
 
 ## Is Crowdfunding Right for Your Business? A Strategic Guide for Founders

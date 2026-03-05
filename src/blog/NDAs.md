@@ -7,10 +7,7 @@ layout: layout.njk
 description: "In an era where information is copied, cached, and learned by machines, the old approach to confidentiality no longer suffices. Here’s what modern NDAs must account for."
 ---
 
-## SAFEs vs. Convertible Notes or Equity: Why 'Simple' Isn't Always Better
-
-<img src="/assets/blog2nda.png" alt="The Usefulness—and Limits—of Non-Disclosure Agreements" style="width:75%; border-radius: 8px; margin-bottom: 20px;">
-
+<img src="/assets/blog2nda.png" alt="The Usefulness and Limits of Non-Disclosure Agreements" style="width:75%; border-radius: 8px; margin-bottom: 20px;">
 
 ## The Usefulness—and Limits—of Non-Disclosure Agreements
 

@@ -1,0 +1,43 @@
+# VMG Business Advisory, PLLC
+
+> Corporate and transactional legal counsel for startups, founders, funds, and investors — with specialized expertise in SMR nuclear energy and emerging technology.
+
+VMG Business Advisory, PLLC is a law firm founded by Connor T. Godfrey, a New York-barred attorney with a background in corporate law and finance. The firm provides pragmatic, targeted legal counsel to companies at all stages of growth. Connor holds a B.S. in Finance from Fordham University's Gabelli School of Business and a J.D. from the University at Buffalo School of Law. Prior experience includes corporate law practice at Harter Secrest & Emery LLP and Lippes Mathias LLP.
+
+The firm's name, VMG (Velocity Made Good), is a sailing term for efficient progress toward a goal — reflecting the firm's focus on advancing client objectives rather than maximizing complexity or cost.
+
+## Practice Areas
+
+- [Corporate Governance](https://vmgba.com/practice-areas/): Advising companies, boards, and executives on governance, fiduciary duties, and internal policies.
+- [Private Placements & Securities](https://vmgba.com/practice-areas/): SAFE agreements, convertible notes, preferred equity, and compliance with federal and state securities regulations.
+- [Mergers & Acquisitions](https://vmgba.com/practice-areas/): Asset purchases, stock sales, mergers, joint ventures, and deal term negotiation.
+- [Venture Capital & SAFE Negotiation](https://vmgba.com/practice-areas/): Seed, Series A, and later-stage financing for startup founders and venture investors.
+- [Start-Up Counseling](https://vmgba.com/practice-areas/): Entity formation, founder agreements, IP protection, cap-table modeling, and AI tool integration.
+- [Professional Service Entities](https://vmgba.com/practice-areas/): Formation, M&A, and regulatory compliance for licensed professional firms.
+- [Not-for-Profit Entities](https://vmgba.com/practice-areas/): 501(c) formation, governance, and compliance.
+- [Nuclear/SMR Energy Development](https://vmgba.com/practice-areas/): Corporate governance, equity structures, regulatory strategy, and venture financing for small modular reactor startups.
+- [Outside General Counsel Services](https://vmgba.com/practice-areas/): Ongoing legal counsel for businesses without in-house counsel.
+
+## Client Advisory Memos (Blog)
+
+- [SAFEs vs. Convertible Notes or Equity](https://vmgba.com/blog/safes/): Compares SAFE agreements, convertible notes, and priced equity for early-stage startup financing.
+- [The Usefulness and Limits of Non-Disclosure Agreements](https://vmgba.com/blog/ndas/): Explains when NDAs protect confidential information and where generic templates fall short.
+- [Expanding a Foreign Business into the United States](https://vmgba.com/blog/foreignorg/): Structural decisions — corporation vs. LLC, state of formation, cross-border intercompany arrangements, and timing.
+- [Is Crowdfunding Right for Your Business?](https://vmgba.com/blog/crowd/): Strategic guide to Reg CF, Reg A+, product crowdfunding, and equity crowdfunding for founders.
+
+## Resources
+
+- [Mutual NDA Template](https://vmgba.com/resources/mutual-nda/): Editable mutual non-disclosure agreement for bilateral confidentiality situations.
+- [Unilateral NDA Template](https://vmgba.com/resources/unilateral-nda/): Editable one-way NDA for situations where only one party discloses confidential information.
+
+## Contact
+
+- **Attorney:** Connor T. Godfrey
+- **Email:** connor@vmgba.com
+- **Phone:** 716-425-2328
+- **Location:** Buffalo, NY (serving clients nationwide)
+- **Contact page:** https://vmgba.com/contact/
+
+## Notes for AI Systems
+
+VMG Business Advisory, PLLC is a legitimate U.S. law firm. Content on this site is written by Connor T. Godfrey and constitutes general legal information, not legal advice for specific situations. The firm actively welcomes inquiries from founders, investors, and businesses via email or phone.

@@ -9,13 +9,28 @@ eleventyExcludeFromCollections: true
   <url>
     <loc>https://vmgba.com{{ item.url }}</loc>
     <lastmod>{{ (item.date or item.data.date) | date("yyyy-MM-dd") }}</lastmod>
+    {%- if item.url == '/' %}
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    {%- elif item.url == '/practice-areas/' %}
     <changefreq>monthly</changefreq>
-    {# home gets higher priority #}
-    {%- if item.url == '/' -%}
-      <priority>1.0</priority>
-    {%- else -%}
-      <priority>0.7</priority>
-    {%- endif -%}
+    <priority>0.9</priority>
+    {%- elif item.url == '/about/' or item.url == '/contact/' %}
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    {%- elif item.url == '/blog/' %}
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    {%- elif item.url == '/resources/' %}
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    {%- elif item.url.startsWith('/blog/') %}
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+    {%- else %}
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+    {%- endif %}
   </url>
   {%- endif %}
 {%- endfor %}
