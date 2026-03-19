@@ -125,13 +125,42 @@ For a business that operates exclusively in New York, forming in Delaware adds u
 
 Rather than defaulting to any particular structure, consider where your business sits today and where it is headed:
 
-| Your Situation | Recommended Starting Entity | Conversion Path |
-|---|---|---|
-| Targeting institutional VC (Series A or beyond) within 12-18 months | Delaware C-Corporation | None needed - this is the target structure |
-| Pre-revenue or bootstrapping; may raise VC later but not imminently | New York or Delaware LLC | Convert to DE C-Corp when a priced round is on the horizon; QSBS clock starts at conversion |
-| Raising from angels, friends/family, or small funds (no tax-exempt/foreign LPs) | LLC (NY or DE, depending on operations) | SAFEs and convertible notes work in LLCs; convert if/when institutional capital requires it |
-| Lifestyle or cash-flow business; no intention to seek outside equity | New York LLC | No conversion needed; pass-through taxation is optimal |
-| Targeting regional accelerators (e.g., 43North, LaunchNY, Buffalo Angels) | Delaware LLC with planned conversion to DE C-Corp | Convert prior to or concurrent with the accelerator's investment; many programs require or strongly prefer a C-Corp |
+<table style="width:100%; border-collapse:collapse; margin:1.5em 0; font-size:0.95em;">
+  <thead>
+    <tr style="background:#1B3A5C; color:#fff;">
+      <th style="border:1px solid #ccc; padding:10px 14px; text-align:left; width:35%;">Your Situation</th>
+      <th style="border:1px solid #ccc; padding:10px 14px; text-align:left; width:25%;">Recommended Starting Entity</th>
+      <th style="border:1px solid #ccc; padding:10px 14px; text-align:left; width:40%;">Conversion Path</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="border:1px solid #ccc; padding:10px 14px;">Targeting institutional VC (Series A or beyond) within 12-18 months</td>
+      <td style="border:1px solid #ccc; padding:10px 14px; font-weight:600;">Delaware C-Corporation</td>
+      <td style="border:1px solid #ccc; padding:10px 14px;">None needed - this is the target structure</td>
+    </tr>
+    <tr style="background:#f7f5f2;">
+      <td style="border:1px solid #ccc; padding:10px 14px;">Pre-revenue or bootstrapping; may raise VC later but not imminently</td>
+      <td style="border:1px solid #ccc; padding:10px 14px; font-weight:600;">New York or Delaware LLC</td>
+      <td style="border:1px solid #ccc; padding:10px 14px;">Convert to DE C-Corp when a priced round is on the horizon; QSBS clock starts at conversion</td>
+    </tr>
+    <tr>
+      <td style="border:1px solid #ccc; padding:10px 14px;">Raising from angels, friends/family, or small funds (no tax-exempt/foreign LPs)</td>
+      <td style="border:1px solid #ccc; padding:10px 14px; font-weight:600;">LLC (NY or DE, depending on operations)</td>
+      <td style="border:1px solid #ccc; padding:10px 14px;">SAFEs and convertible notes work in LLCs; convert if/when institutional capital requires it</td>
+    </tr>
+    <tr style="background:#f7f5f2;">
+      <td style="border:1px solid #ccc; padding:10px 14px;">Lifestyle or cash-flow business; no intention to seek outside equity</td>
+      <td style="border:1px solid #ccc; padding:10px 14px; font-weight:600;">New York LLC</td>
+      <td style="border:1px solid #ccc; padding:10px 14px;">No conversion needed; pass-through taxation is optimal</td>
+    </tr>
+    <tr>
+      <td style="border:1px solid #ccc; padding:10px 14px;">Targeting regional accelerators (e.g., 43North, LaunchNY, Buffalo Angels)</td>
+      <td style="border:1px solid #ccc; padding:10px 14px; font-weight:600;">Delaware LLC with planned conversion to DE C-Corp</td>
+      <td style="border:1px solid #ccc; padding:10px 14px;">Convert prior to or concurrent with the accelerator's investment; many programs require or strongly prefer a C-Corp</td>
+    </tr>
+  </tbody>
+</table>
 
 ### A Note on LLC-to-C-Corp Conversion
 
