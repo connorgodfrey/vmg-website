@@ -7,9 +7,9 @@ layout: layout.njk
 description: "In an era where information is copied, cached, and learned by machines, the old approach to confidentiality no longer suffices. Here’s what modern NDAs must account for."
 ---
 
-<img src="/assets/blog2nda.png" alt="The Usefulness and Limits of Non-Disclosure Agreements" style="width:75%; border-radius: 8px; margin-bottom: 20px;">
+<img src="/assets/blog2nda.jpg" alt="The Usefulness and Limits of Non-Disclosure Agreements" loading="lazy" style="width:75%; border-radius: 8px; margin-bottom: 20px;">
 
-## The Usefulness—and Limits—of Non-Disclosure Agreements
+# The Usefulness—and Limits—of Non-Disclosure Agreements
 
 Non-Disclosure Agreements (NDAs) are among the most common contracts in business and among the easiest to underestimate. They appear simple, but the difference between a generic form and a purpose-crafted NDA can determine whether confidential information is actually protected or quietly lost.
 

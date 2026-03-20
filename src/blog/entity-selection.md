@@ -7,9 +7,9 @@ layout: layout.njk
 description: "Entity selection for fundraising-track startups: tax treatment, governance, franchise taxes, foreign qualification, and a practical decision framework for choosing between a Delaware C-Corp and a New York LLC."
 ---
 
-## Why VCs Prefer the Delaware C-Corp - And Why That May Not Be Relevant to You
+# Why VCs Prefer the Delaware C-Corp - And Why That May Not Be Relevant to You
 
-<img src="/assets/entity-selection.png" alt="Entity Selection for Startups: Delaware C-Corp vs. New York LLC" style="width:50%; border-radius: 8px; margin-bottom: 20px;">
+<img src="/assets/entity-selection.jpg" alt="Entity Selection for Startups: Delaware C-Corp vs. New York LLC" style="width:50%; border-radius: 8px; margin-bottom: 20px;">
 
 If you have spent any time reading startup advice online, you have probably encountered some version of this claim: "You need a Delaware C-corp because investors prefer it." That advice is not necessarily wrong, but it is incomplete. The Delaware C-corporation is the default structure for venture-backed startups because it solves a specific set of problems that institutional investors care deeply about. But for many early-stage businesses, particularly those that are bootstrapping, raising from angels, or operating primarily in New York, a New York limited liability company may be the better starting point.
 
