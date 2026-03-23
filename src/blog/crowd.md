@@ -9,7 +9,7 @@ description: "Equity crowdfunding, Reg CF, Reg A+, and product crowdfunding expl
 
 # Is Crowdfunding Right for Your Business? A Strategic Guide for Founders
 
-<img src="/assets/crowd.jpg" alt="Crowdfunding Basics and Benefits for Startups" loading="lazy" style="width:50%; border-radius: 8px; margin-bottom: 20px;">
+<img src="/assets/crowd.jpg" alt="Crowdfunding Basics and Benefits for Startups" loading="lazy" class="blog-hero-img">
 
 Crowdfunding can be a powerful financing tool, but it is not “easy money.” In 2021, only about 59% of equity crowdfunding campaigns raised any funds at all, and many failed to meet their stated goals. That said, for a prepared company with a compelling story, crowdfunding can serve as a viable alternative or complement to angel and venture capital financing.
 

@@ -1,0 +1,134 @@
+/* Blog posts */
+.blog-hero-img {
+  width: 50%;
+  border-radius: 8px;
+  margin: 0 auto;
+  margin-bottom: 20px;
+  display: block;
+}
+
+.table-scroll {
+  width: 100%;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+}
+
+.decision-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1.5em 0;
+  font-size: 0.95em;
+}
+
+.decision-table thead tr {
+  background: #1B3A5C;
+  color: #fff;
+}
+
+.decision-table th,
+.decision-table td {
+  border: 1px solid #ccc;
+  padding: 10px 14px;
+  text-align: left;
+}
+
+.decision-table thead th:nth-child(1) { width: 35%; }
+.decision-table thead th:nth-child(2) { width: 25%; }
+.decision-table thead th:nth-child(3) { width: 40%; }
+
+.decision-table__alt {
+  background: #f7f5f2;
+}
+
+.decision-table__entity {
+  font-weight: 600;
+}
+
+@media (max-width: 640px) {
+  .blog-hero-img {
+    width: 100%;
+  }
+
+  .decision-table thead {
+    display: none;
+  }
+
+  .decision-table,
+  .decision-table tbody,
+  .decision-table tr,
+  .decision-table td {
+    display: block;
+  }
+
+  .decision-table tr {
+    width: calc(100% - 24px);
+    border: 1px solid #ccc;
+    margin-bottom: 12px;
+    border-radius: 4px;
+    overflow: hidden;
+    box-sizing: border-box;
+  }
+  .decision-table__situation {
+    background: #1B3A5C;
+    color: #fff;
+  }
+  
+  .decision-table td {
+    border: none;
+    border-bottom: 1px solid #e4e4e4;
+    padding: 8px 12px;
+  }
+
+  .decision-table td:last-child {
+    border-bottom: none;
+  }
+
+  .decision-table td::before {
+    content: attr(data-label);
+    display: block;
+    font-size: 0.75em;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+    color: #888;
+    margin-bottom: 3px;
+  }
+}
+
+/* About page */
+.about-bio {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  align-items: center;
+  margin-bottom: 40px;
+}
+
+.about-bio__text {
+  flex: 1 1 60%;
+  min-width: 0;
+}
+
+.about-bio__photo {
+  flex: 1 1 30%;
+  min-width: 0;
+}
+
+.about-bio__img {
+  max-width: 100%;
+  border-radius: 8px;
+  display: block;
+}
+
+@media (max-width: 640px) {
+  .about-bio {
+    flex-direction: column;
+  }
+
+  .about-bio__photo {
+    order: -1;
+    width: 100%;
+    max-width: 280px;
+    margin: 0 auto;
+  }
+}

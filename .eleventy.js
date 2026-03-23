@@ -6,6 +6,7 @@ module.exports = function(eleventyConfig) {
   registerShortcodes(eleventyConfig);
   // Copy static assets from src/assets → /assets
   eleventyConfig.addPassthroughCopy("src/assets");
+  eleventyConfig.addPassthroughCopy("src/robots.txt");
 
   // Valid template formats
   eleventyConfig.setTemplateFormats(["njk", "md", "html"]);

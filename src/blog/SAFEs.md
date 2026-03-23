@@ -9,7 +9,7 @@ description: "How SAFEs compare with convertible notes and equity rounds—guida
 
 # SAFEs vs. Convertible Notes or Equity: Why 'Simple' Isn't Always Better
 
-<img src="/assets/blog1safe.jpg" alt="SAFE vs Convertible Notes" loading="lazy" style="width:100%; border-radius: 8px; margin-bottom: 20px;">
+<img src="/assets/blog1safe.jpg" alt="SAFE vs Convertible Notes" loading="lazy" class="blog-hero-img">
 
 **Overview**
 SAFEs were designed to make early fundraising fast and inexpensive. That simplicity can be useful, but it often defers hard questions about enforceability, valuation, and dilution. This memorandum explains how SAFEs actually behave in practice, and contrasts them with convertible notes and traditional priced equity so founders and investors can choose instruments aligned with their valuation confidence and risk tolerance.

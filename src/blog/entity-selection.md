@@ -9,7 +9,7 @@ description: "Entity selection for fundraising-track startups: tax treatment, go
 
 # Why VCs Prefer the Delaware C-Corp - And Why That May Not Be Relevant to You
 
-<img src="/assets/entity-selection.jpg" alt="Entity Selection for Startups: Delaware C-Corp vs. New York LLC" style="width:50%; border-radius: 8px; margin-bottom: 20px;">
+<img src="/assets/entity-selection.jpg" alt="Entity Selection for Startups: Delaware C-Corp vs. New York LLC" class="blog-hero-img">
 
 If you have spent any time reading startup advice online, you have probably encountered some version of this claim: "You need a Delaware C-corp because investors prefer it." That advice is not necessarily wrong, but it is incomplete. The Delaware C-corporation is the default structure for venture-backed startups because it solves a specific set of problems that institutional investors care deeply about. But for many early-stage businesses, particularly those that are bootstrapping, raising from angels, or operating primarily in New York, a New York limited liability company may be the better starting point.
 
@@ -125,42 +125,42 @@ For a business that operates exclusively in New York, forming in Delaware adds u
 
 Rather than defaulting to any particular structure, consider where your business sits today and where it is headed:
 
-<table style="width:100%; border-collapse:collapse; margin:1.5em 0; font-size:0.95em;">
+<div class="table-scroll"><table class="decision-table">
   <thead>
-    <tr style="background:#1B3A5C; color:#fff;">
-      <th style="border:1px solid #ccc; padding:10px 14px; text-align:left; width:35%;">Your Situation</th>
-      <th style="border:1px solid #ccc; padding:10px 14px; text-align:left; width:25%;">Recommended Starting Entity</th>
-      <th style="border:1px solid #ccc; padding:10px 14px; text-align:left; width:40%;">Conversion Path</th>
+    <tr>
+      <th>Your Situation</th>
+      <th>Recommended Starting Entity</th>
+      <th>Conversion Path</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="border:1px solid #ccc; padding:10px 14px;">Targeting institutional VC (Series A or beyond) within 12-18 months</td>
-      <td style="border:1px solid #ccc; padding:10px 14px; font-weight:600;">Delaware C-Corporation</td>
-      <td style="border:1px solid #ccc; padding:10px 14px;">None needed - this is the target structure</td>
+      <td data-label="Your Situation" class="decision-table__situation">Targeting institutional VC (Series A or beyond) within 12-18 months</td>
+      <td data-label="Recommended Starting Entity" class="decision-table__entity">Delaware C-Corporation</td>
+      <td data-label="Conversion Path">None needed - this is the target structure</td>
     </tr>
-    <tr style="background:#f7f5f2;">
-      <td style="border:1px solid #ccc; padding:10px 14px;">Pre-revenue or bootstrapping; may raise VC later but not imminently</td>
-      <td style="border:1px solid #ccc; padding:10px 14px; font-weight:600;">New York or Delaware LLC</td>
-      <td style="border:1px solid #ccc; padding:10px 14px;">Convert to DE C-Corp when a priced round is on the horizon; QSBS clock starts at conversion</td>
-    </tr>
-    <tr>
-      <td style="border:1px solid #ccc; padding:10px 14px;">Raising from angels, friends/family, or small funds (no tax-exempt/foreign LPs)</td>
-      <td style="border:1px solid #ccc; padding:10px 14px; font-weight:600;">LLC (NY or DE, depending on operations)</td>
-      <td style="border:1px solid #ccc; padding:10px 14px;">SAFEs and convertible notes work in LLCs; convert if/when institutional capital requires it</td>
-    </tr>
-    <tr style="background:#f7f5f2;">
-      <td style="border:1px solid #ccc; padding:10px 14px;">Lifestyle or cash-flow business; no intention to seek outside equity</td>
-      <td style="border:1px solid #ccc; padding:10px 14px; font-weight:600;">New York LLC</td>
-      <td style="border:1px solid #ccc; padding:10px 14px;">No conversion needed; pass-through taxation is optimal</td>
+    <tr class="decision-table__alt">
+      <td data-label="Your Situation" class="decision-table__situation">Pre-revenue or bootstrapping; may raise VC later but not imminently</td>
+      <td data-label="Recommended Starting Entity" class="decision-table__entity">New York or Delaware LLC</td>
+      <td data-label="Conversion Path">Convert to DE C-Corp when a priced round is on the horizon; QSBS clock starts at conversion</td>
     </tr>
     <tr>
-      <td style="border:1px solid #ccc; padding:10px 14px;">Targeting regional accelerators (e.g., 43North, LaunchNY, Buffalo Angels)</td>
-      <td style="border:1px solid #ccc; padding:10px 14px; font-weight:600;">Delaware LLC with planned conversion to DE C-Corp</td>
-      <td style="border:1px solid #ccc; padding:10px 14px;">Convert prior to or concurrent with the accelerator's investment; many programs require or strongly prefer a C-Corp</td>
+      <td data-label="Your Situation" class="decision-table__situation">Raising from angels, friends/family, or small funds (no tax-exempt/foreign LPs)</td>
+      <td data-label="Recommended Starting Entity" class="decision-table__entity">LLC (NY or DE, depending on operations)</td>
+      <td data-label="Conversion Path">SAFEs and convertible notes work in LLCs; convert if/when institutional capital requires it</td>
+    </tr>
+    <tr class="decision-table__alt">
+      <td data-label="Your Situation" class="decision-table__situation">Lifestyle or cash-flow business; no intention to seek outside equity</td>
+      <td data-label="Recommended Starting Entity" class="decision-table__entity">New York LLC</td>
+      <td data-label="Conversion Path">No conversion needed; pass-through taxation is optimal</td>
+    </tr>
+    <tr>
+      <td data-label="Your Situation" class="decision-table__situation">Targeting regional accelerators (e.g., 43North, LaunchNY, Buffalo Angels)</td>
+      <td data-label="Recommended Starting Entity" class="decision-table__entity">Delaware LLC with planned conversion to DE C-Corp</td>
+      <td data-label="Conversion Path">Convert prior to or concurrent with the accelerator's investment; many programs require or strongly prefer a C-Corp</td>
     </tr>
   </tbody>
-</table>
+</table></div>
 
 ### A Note on LLC-to-C-Corp Conversion
 
