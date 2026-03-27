@@ -43,21 +43,41 @@ Following the One Big Beautiful Bill Act (OBBBA), signed into law on July 4, 202
 
 Critically, QSBS is only available for stock in C-corporations. LLCs, S-corporations, and partnerships do not qualify. While an LLC can convert to a C-corp, the QSBS clock starts at conversion; prior holding periods do not count.
 
+#### A Note on State QSBS Conformity
+ 
+The federal QSBS exclusion is a function of entity type (the company must be a C-corporation) and holding period, but the state tax treatment of excluded gains depends on where the taxpayer lives, not where the company is incorporated. Most states follow federal QSBS treatment. However, a small number do not conform at all: California, Pennsylvania, Alabama, and Mississippi tax QSBS gains at full state rates regardless of the federal exclusion. Hawaii and Massachusetts are partially conforming, each limiting the exclusion in different ways. (New Jersey was previously non-conforming but enacted legislation bringing the state into full conformity for tax years beginning on or after January 1, 2026.) For a founder in a non-conforming state like California, a large federally excluded gain could still generate a significant state tax bill.
+ 
+Incorporating in Delaware does not solve this problem. A California resident who holds QSBS in a Delaware C-corporation will still owe California income tax on the gain. Conversely, New York fully conforms to federal Section 1202 on a rolling basis. Gains excluded under Section 1202 at the federal level are also excluded from New York State and New York City personal income tax, regardless of whether the issuing corporation is formed in Delaware or New York. For New York-based founders and investors, QSBS conformity is a meaningful benefit, but it follows from residency, not from the company's state of incorporation.
+
 ---
 
 ## Why Venture Capital Investors Prefer Delaware
-
-### QSBS Conformity
-
-While most states follow federal QSBS treatment, a small number do not conform at all: California, Pennsylvania, Alabama, and Mississippi tax QSBS gains at full state rates regardless of the federal exclusion. Hawaii and Massachusetts are partially conforming, each limiting the exclusion in different ways. (New Jersey was previously non-conforming but enacted legislation bringing the state into full conformity for tax years beginning on or after January 1, 2026.) For a founder in a non-conforming state like California, a large federally excluded gain could still generate a significant state tax bill.
-
-This is not an issue for New York corporations. New York fully conforms to federal Section 1202 on a rolling basis. Gains excluded under Section 1202 at the federal level are also excluded from New York State and New York City personal income tax. This is a meaningful benefit for New York-based founders and investors.
-
-### Governance Simplicity and Standardization
-
-Beyond tax considerations, VCs prefer Delaware C-corps because the governance framework is familiar and standardized. Delaware's General Corporation Law (DGCL) provides well-established rules for issuing multiple classes of stock, granting board seats, protective provisions, anti-dilution mechanisms, and liquidation preferences. The National Venture Capital Association (NVCA) model documents are drafted for Delaware C-corporations. When a company shows up to a Series A as a Delaware C-corp, the legal costs are lower and the negotiation is faster because everyone is working from the same playbook.
-
-LLCs can accomplish all of this through a custom operating agreement, but "custom" is the key word. There is no standardized LLC equivalent of the NVCA term sheet. Every LLC investment requires bespoke documentation, which increases legal costs and negotiation time for both sides. Most institutional VCs will simply require conversion to a C-corp as a condition of investment.
+ 
+The preference for Delaware specifically (as opposed to a C-corporation formed in any state) rests on a combination of legal infrastructure, statutory flexibility, and market convention that together reduce friction and risk for institutional investors.
+ 
+### The Court of Chancery and Developed Case Law
+ 
+Delaware's Court of Chancery is a dedicated equity court with jurisdiction over corporate disputes. Its judges are specialists in corporate and business law, cases are decided by the bench (no juries), and proceedings are typically resolved faster than in general-jurisdiction state courts. For investors and their counsel, this means that governance disputes, fiduciary duty claims, and merger challenges are heard by judges with deep expertise in the relevant doctrine.
+ 
+Equally important is the depth of Delaware's corporate case law. Decades of Chancery and Delaware Supreme Court opinions have produced a detailed body of precedent on fiduciary duties, stockholder rights, director liability, merger mechanics, and the enforceability of charter and bylaw provisions. When a VC fund negotiates protective provisions or a liquidation preference, both sides can assess enforceability against existing case law with a degree of confidence that is not available in most other states. The result is less ambiguity, fewer surprises in litigation, and lower risk premiums in deal structuring.
+ 
+### Statutory Flexibility Under the DGCL
+ 
+The Delaware General Corporation Law (DGCL) is designed to give private parties maximum flexibility in structuring corporate governance. The DGCL permits blank-check preferred stock (allowing the board to create new series of preferred stock with custom rights without concurrent stockholder vote), flexible dividend and distribution mechanics, broad indemnification of directors and officers, and statutory provisions for mergers, conversions, and domestications that other states may not offer or may handle less cleanly.
+ 
+The DGCL is also updated regularly by the Delaware legislature, often in response to developments in case law or market practice. This responsiveness means the statute tends to keep pace with the needs of sophisticated corporate transactions rather than lagging behind them.
+ 
+### Standardized Documentation and Market Convention
+ 
+The National Venture Capital Association (NVCA) model documents, which form the starting point for the vast majority of institutional venture financings, are drafted specifically for Delaware C-corporations. Certificate of incorporation provisions, investor rights agreements, voting agreements, and right of first refusal and co-sale agreements in the NVCA suite all reference DGCL sections and assume Delaware as the governing law.
+ 
+When a company shows up to a Series A as a Delaware C-corp with a clean charter, the legal costs are lower and the negotiation is faster because everyone is working from the same playbook. Investor-side counsel can review the documents more quickly, and fewer provisions need to be negotiated from scratch. This standardization also extends to secondary transactions, M&A, and IPO preparation. Underwriters, acquirers, and their counsel expect Delaware governing law and Delaware-form documents. A non-Delaware corporation does not face an insurmountable problem, but it does face incremental cost and delay at each of these stages.
+ 
+### Administrative Flexibility
+ 
+Delaware offers several practical advantages at the administrative level. The state permits the formation and maintenance of corporations entirely online, with rapid (often same-day or next-day) processing times for filings. Directors and officers need not be residents of Delaware. The state does not impose a corporate income tax on companies that are formed in Delaware but do not conduct business within the state. Annual report filing is minimal compared to many states.
+ 
+These features are individually small, but in aggregate they make Delaware a low-friction jurisdiction for formation, ongoing maintenance, and corporate transactions.
 
 ---
 
