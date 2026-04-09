@@ -7,7 +7,7 @@ layout: layout.njk
 description: "Paying someone for an investor introduction can trigger SEC broker-dealer rules, risking rescission, enforcement, and loss of your Reg D exemption."
 ---
 
-# The Finder Fee Trap: How a Simple Investor Introduction Can Unwind Your Entire Raise
+# The Finder Fee Trap: Investor Introductions Gone Wrong
 
 <img src="/assets/finder.png" alt="The Finder Fee Trap: Broker-Dealer Registration Risks for Startup Investor Introductions" class="blog-hero-img" loading="lazy">
 
