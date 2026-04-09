@@ -9,7 +9,7 @@ description: "Paying someone for an investor introduction can trigger SEC broker
 
 # The Finder Fee Trap: How a Simple Investor Introduction Can Unwind Your Entire Raise
 
-<img src="/assets/finder.jpg" alt="The Finder Fee Trap: Broker-Dealer Registration Risks for Startup Investor Introductions" class="blog-hero-img" loading="lazy">
+<img src="/assets/finder.png" alt="The Finder Fee Trap: Broker-Dealer Registration Risks for Startup Investor Introductions" class="blog-hero-img" loading="lazy">
 
 Someone you trust tells you they know an investor. The investor has money, is interested in your space, and is willing to take a meeting. All your contact asks for in return is a small piece of equity if the deal closes. It feels like the most natural arrangement in the world. A friend helping a friend, with a little upside if it works out.
 
