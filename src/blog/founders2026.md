@@ -72,7 +72,7 @@ What Launch NY actually delivers, in order of how most founders interact with th
 
 ## 3. The accelerator: 43North
 
-[**43North**](https://43north.org/)is Buffalo’s flagship startup accelerator, led by Colleen Heidinger. It runs a single, highly selective annual cohort: each year, five companies receive $1M in exchange for 5% equity and participate in a year-long program. In return, companies are required to establish a meaningful presence in Buffalo, including relocating leadership and a portion of their team for at least one year.
+[**43North**](https://43north.org/) is Buffalo’s flagship startup accelerator, led by Colleen Heidinger. It runs a single, highly selective annual cohort: each year, five companies receive $1M in exchange for 5% equity and participate in a year-long program. In return, companies are required to establish a meaningful presence in Buffalo, including relocating leadership and a portion of their team for at least one year.
 
 The program is not designed for idea-stage founders. It is for companies that already have a product, early traction, and a credible path to scale. Application timing is annual, with a national (increasingly global) applicant pool and a highly competitive selection process. For founders at the right stage, it is the single largest non-dilutive-adjacent capital injection in the region paired with strong signaling value.
 
@@ -84,7 +84,7 @@ Separate from the accelerator itself, the [**43North Foundation**](https://www.4
 
 [**TechBuffalo**](https://techbuffalo.org/) is the talent focus area (see Section 5).
 
-**Series B(uffalo)** is the storytelling focus area, run editorially by former Buffalo Business First reporter Dan Miner. Modeled on the coordinated regional storytelling efforts of Salt Lake City and Indianapolis.
+[**Series B(uffalo)**](https://www.seriesbuffalo.com/) is the storytelling focus area, run editorially by former Buffalo Business First reporter Dan Miner. Modeled on the coordinated regional storytelling efforts of Salt Lake City and Indianapolis.
 
 [**43N Compass**](https://43north.org/talent/) is 43North's talent and recruitment program, distinct from the Foundation's talent focus area, which runs through TechBuffalo. Compass is a job board featuring openings at 43North portfolio companies and other Buffalo startups, plus a Talent Network founders can use to source candidates. Christian Gaddis is the recruitment manager. Covered further in Section 5.
 
@@ -94,9 +94,9 @@ For founders, 43North is not the answer to "I need help getting started." It's t
 
 Three organizations provide free legal help to founders and small businesses in Western New York. They serve different populations and you should know which one fits your situation.
 
-**UB e-Law Center** (covered in Section 1) is for UB-affiliated and BEP/Cultivator-program founders. Pre-institutional-capital scope. Directed by Matthew Pelkey.
+[**UB e-Law Center**](https://www.law.buffalo.edu/beyond/clinics/entrepreneurship-law-center-clinic.html) (covered in Section 1) is for UB-affiliated and BEP/Cultivator-program founders. Pre-institutional-capital scope. Directed by Matthew Pelkey.
 
-**Launch NY SSBCI Technical Assistance Program** (covered in Section 2) is for any pre-seed or seed-stage New York startup. No UB affiliation required. Statewide. Legal services include entity formation, contracts, employee agreements, ownership transfers, and equity fundraising.
+[**Launch NY SSBCI Technical Assistance Program**](https://launchny.org/ssbci-ta/) (covered in Section 2) is for any pre-seed or seed-stage New York startup. No UB affiliation required. Statewide. Legal services include entity formation, contracts, employee agreements, ownership transfers, and equity fundraising.
 
 [**Small Business Legal Clinic (SBLC)**](https://wnylc.com/services/small-business-legal-clinic/) is for low-income entrepreneurs (means-tested). Scope is small-business operating work: business formation, contracts, commercial leases, licensing, permits, zoning, buying/selling/closing a business, corporate governance and compliance, tax considerations, and M/WBE certification. Drop-in clinics monthly at WEDI's [West Side Bazaar](https://www.wedibuffalo.org/west-side-bazaar) (1st Tuesday), the Beverly Gray Exchange (3rd Wednesday), and the Women's Business Center (2nd Wednesday), plus virtual clinics. Phone 716.828.8457. WNYLC's other practice areas are housing, consumer debt, and foreclosure defense, which gives you a sense of the population they serve.
 
@@ -132,7 +132,7 @@ The two member incubators outside UB itself are: **UB Incubator @ Baird Research
 
 [**BootSector**](https://joinbootsector.com/) (described below in Section 7) maintains a list of local incubators on their website as well. 
 
-Coworking offices such as **Serendipity Labs** (at Seneca One), **Hansa**(on Ellicott Street), or **Skeleton Dojo Social Club** (on Elmwood and Lafayette) offer flexible workspaces, shared amenities, and a network of entreprenuerial-minded neighbors without the structured programming, application barriers, or milestone requirements of an incubator. These spaces are ideal for remote workers, distributed startup teams, or founders who simply need professional office infrastructure, high-speed internet, and an active community of peers without the formal guardrails of a specialized institutional program.
+Coworking offices such as **Serendipity Labs** (at Seneca One), **Hansa** (on Ellicott Street), or **Skeleton Dojo Social Club** (on Elmwood and Lafayette) offer flexible workspaces, shared amenities, and a network of entreprenuerial-minded neighbors without the structured programming, application barriers, or milestone requirements of an incubator. These spaces are ideal for remote workers, distributed startup teams, or founders who simply need professional office infrastructure, high-speed internet, and an active community of peers without the formal guardrails of a specialized institutional program.
 
 ## 7. The community of practice and event infrastructure
 
@@ -181,7 +181,7 @@ A handful of WNY-based for-profit firms specifically serve founders and early-st
 
 [**VMG Business Advisory**](vmgba.com) (Connor Godfrey). Buffalo-based business law and advisory practice for venture-track founders, SMBs, investors, and nonprofits. Combines transactional legal work with business advisory across formation, financing, M&A, and outside general counsel relationships.
 
-**Get Collab** (Anna Tomani). Go-to-market strategic project management for scaling tech startups. The value is having a hands-on operator manage product launch execution end-to-end, not a strategist who hands off a deck.
+[**Business Growth Accelerator**](https://wnybusinessgrowthaccelerator.com/) (Anna Tomani, Mike Neal, Shatara Levy, and Marcus J. Moses). Provides a half-day workshop for entrepreneurs and small business owners, focused on growing their business across lead generation, networking and referrals, and CRM/follow-up automation.
 
 [**Board Bonsai**](https://www.boardbonsai.com) (Matt Haberstro). For solo founders and small teams, Board Bonsai works alongside you each week to keep the business moving: setting priorities, tracking what got done, and turning the things in your head into written-down systems your team can run on their own.
 
