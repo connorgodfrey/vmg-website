@@ -231,13 +231,11 @@ Two organizations span the entire Upstate ecosystem and are worth knowing for fo
 
 ## How to actually use this
 
-If you're starting from zero, the practical order of operations is roughly:
+If you're starting from zero, the practical order of operations for a founder might be:
 
-Show up to the Buffalo Open Coffee Club on a Tuesday morning (Section 7). Get coffee. Talk to people. It's the lowest-friction way to start meeting people in the ecosystem.
+Show up to the [Buffalo Open Coffee Club](https://716coffee.club/). Get coffee. Talk to people. It's the lowest-friction way to start meeting people in the ecosystem.
 
-If you're a UB-affiliated founder, contact BEP. They will route you to the right program.
-
-If you're not UB-affiliated, contact Launch NY for an EIR conversation. The EIR will tell you honestly whether Founders Go Big, the SSBCI TA program, or another Launch NY service is the right fit.
+Contact [Launch NY](https://launchny.org/) for an EIR conversation, or [BEP](https://www.buffalo.edu/partnerships.html) if you are UB-affiliated.
 
 If you're pre-pre-seed or under-resourced, talk to the [Good Neighbor Fund](https://www.goodneighbor.fund/). The microgrant is $1,000 with no strings.
 
