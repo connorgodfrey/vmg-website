@@ -243,9 +243,9 @@ If you're pre-pre-seed or under-resourced, talk to the [Good Neighbor Fund](http
 
 If you need physical incubator space, look to the univertiy-affiliated incubators, various industry-focused incubators, or coworking offices.
 
-If you're ready to pitch local investors, contact WNY Venture Association.
+If you're ready to pitch local investors, contact [WNY Venture Association](https://www.wnyventure.com/).
 
-If you're ready to create a business entity, draft your initial contracts (NDAs, equity for contributors and IP assignment, or fundraising documentation), or want help refining your business plan, contact VMG Business Advisory.
+If you're ready to create a business entity, draft your initial contracts (NDAs, equity for contributors and IP assignment, or fundraising documentation), or want help refining your business plan, contact [VMG Business Advisory](vmgba.com).
 
 If you find yourself wanting more after this guide, Launch NY's [Resource Navigator](https://launchny.org/entrepreneurs/resource-navigator/) contains 250+  resources is a natural next step.
 
