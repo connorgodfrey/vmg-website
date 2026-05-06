@@ -226,6 +226,7 @@ Two organizations span the entire Upstate ecosystem and are worth knowing for fo
 [**Upstate Venture Connect (UVC)**](https://www.upstateventureconnect.org/) is a 501(c)(3) founded by TriNet founder Martin Babinec. CEO Olivia Goldstein. UVC is the relationship layer connecting Upstate founders to mentors, advisors, and capital across the state. Programs include UNY50 (an invitation-only network of senior entrepreneurs and operators), Community Advocates (regional connectors in each Upstate metro), and Founder Fusion events including Upstate-to-NYC and Upstate-to-DC dinners. UVC won a $100K Springboard 2025 award for an Upstate-to-DC Founders Roadshow. If you want to be known beyond Buffalo, UVC is the entity that makes that happen.
 
 [**Upstate Capital Association of New York**](https://upstatecapital.org/) is the capital-side counterpart to UVC. Connects capital providers, professional advisors, and supporting organizations across Upstate. Most relevantly for founders, Upstate Capital runs the [**New York Business Plan Competition (NYBPC)**](https://upstatecapital.org/nybpc-info/), the largest intercollegiate entrepreneurship competition in NYS: 10 ESD regions, 6 tracks, top two teams per track per region advance to state finals, $25K Grand Prize, ~$100K total prize pool. Eligibility: currently enrolled NY college students with majority-student-owned ventures and under $100K in cumulative capital raised. 
+
 ---
 
 ## How to actually use this
@@ -246,7 +247,7 @@ If you're ready to pitch local investors, contact WNY Venture Association.
 
 If you're ready to create a business entity, draft your initial contracts (NDAs, equity for contributors and IP assignment, or fundraising documentation), or want help refining your business plan, contact VMG Business Advisory.
 
-If you find yourself wanting more after this guide, Launch NY's [**Resource Navigator**](https://launchny.org/entrepreneurs/resource-navigator/) contains 250+  resources is a natural next step.
+If you find yourself wanting more after this guide, Launch NY's [Resource Navigator](https://launchny.org/entrepreneurs/resource-navigator/) contains 250+  resources is a natural next step.
 
 The ecosystem is rich with resources and opportunities. Use it.
 
