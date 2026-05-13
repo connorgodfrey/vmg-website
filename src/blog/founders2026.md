@@ -185,7 +185,7 @@ A handful of WNY-based for-profit firms specifically serve founders and early-st
 
 [**Board Bonsai**](https://www.boardbonsai.com) (Matt Haberstro). For solo founders and small teams, Board Bonsai works alongside you each week to keep the business moving: setting priorities, tracking what got done, and turning the things in your head into written-down systems your team can run on their own.
 
-[**Finsightic**](https://www.finsightic.com) (Abu Bakar). Startup financial operations and CRM/ERP workflow implementation. Started in startup finance and expanded into operational systems; the value is for founders past initial bookkeeping who need both their finance function and their core operating systems professionalized at the same time.
+[**Finsightic**](https://www.finsightic.com) Back-office finance and operational support for startups and growing businesses. Finance (bookkeeping, controller, fractional CFO, catch-up & cleanup) and operations (SOPs, workflow design, CRM/ERP implementation); the value is for founders who need both their finance function and their core operating systems professionalized at the same time.
 
 This list is intentionally short. There are more consultants, fractional executives, and professional service firms working with WNY founders, and any list is incomplete. The point is that founders in Buffalo have for-profit professional service options beyond the nonprofit programs in this guide.
 
