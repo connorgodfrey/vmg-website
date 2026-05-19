@@ -157,6 +157,8 @@ If you want to start a new founder-led event or community in Buffalo and you nee
 
 ## 8. Education, training, and post-product-market-fit support
 
+[**SCORE Western New York**](https://www.score.org/ny/western-ny/) is the local SBA-supported chapter of SCORE, the nation's largest network of free, expert business mentors. The Buffalo Niagara chapter has 50-70 volunteer mentors (working and retired executives, entrepreneurs, and industry specialists) who provide free, confidential one-on-one mentoring across every aspect of business planning, start-up, management, and growth. Free and low-cost workshops throughout the year. Co-sponsors Straight Talk with the SBA each January and EXPO/Matchmaker each May. Serves the eight counties of Western New York. Like the SBDCs (see below), SCORE is most useful for SMB and operating-business founders rather than venture-track founders, but the format is different: SCORE pairs you with an individual volunteer mentor whose background matches your need, rather than a staff counselor.
+
 [**UB Center for Entrepreneurial Leadership (CEL)**](https://mgt.buffalo.edu/entrepreneurship) is UB School of Management's long-running entrepreneurship education and peer-mentorship center, established 1987. CEL is not for venture-track founders raising institutional capital; it is for practicing operating-business owners and growth-stage entrepreneurs who want structured peer learning, mentorship from seasoned operators, and a community of WNY business owners. 1,400+ alumni who collectively employ 23,000+ Western New Yorkers across businesses worth $2.3B+ to the local economy. Programs include:
 
 - **CEL Core**, the flagship peer-based, mentor-driven program for established entrepreneurs.
@@ -179,7 +181,7 @@ The Buffalo campus will offer a two-year Professional Certificate in Business & 
 
 A handful of WNY-based for-profit firms specifically serve founders and early-stage companies. Brief introductions oriented around what each one's value proposition actually is for founders; this is not exhaustive.
 
-[**VMG Business Advisory**](vmgba.com) (Connor Godfrey). Buffalo-based business law and advisory practice for venture-track founders, SMBs, investors, and nonprofits. Combines transactional legal work with business advisory across formation, financing, M&A, and outside general counsel relationships.
+[**VMG Business Advisory**](https://vmgba.com/) (Connor Godfrey). Buffalo-based business law and advisory practice for venture-track founders, SMBs, investors, and nonprofits. Combines transactional legal work with business advisory across formation, financing, M&A, and outside general counsel relationships.
 
 [**Business Growth Accelerator**](https://wnybusinessgrowthaccelerator.com/) (Anna Tomani, Mike Neal, Shatara Levy, and Marcus J. Moses). Provides a half-day workshop for entrepreneurs and small business owners, focused on growing their business across lead generation, networking and referrals, and CRM/follow-up automation.
 
@@ -239,11 +241,11 @@ Contact [Launch NY](https://launchny.org/) for an EIR conversation, or [BEP](htt
 
 If you're pre-pre-seed or under-resourced, talk to the [Good Neighbor Fund](https://www.goodneighbor.fund/). The microgrant is $1,000 with no strings.
 
-If you need physical incubator space, look to the univertiy-affiliated incubators, various industry-focused incubators, or coworking offices.
+If you need physical incubator space, look to the university-affiliated incubators, various industry-focused incubators, or coworking offices.
 
 If you're ready to pitch local investors, contact [WNY Venture Association](https://www.wnyventure.com/).
 
-If you're ready to create a business entity, draft your initial contracts (NDAs, equity for contributors and IP assignment, or fundraising documentation), or want help refining your business plan, contact [VMG Business Advisory](vmgba.com).
+If you're ready to create a business entity, draft your initial contracts (NDAs, equity for contributors and IP assignment, or fundraising documentation), or want help refining your business plan, contact [VMG Business Advisory](https://vmgba.com/).
 
 If you find yourself wanting more after this guide, Launch NY's [Resource Navigator](https://launchny.org/entrepreneurs/resource-navigator/) contains 250+  resources is a natural next step.
 
