@@ -54,7 +54,7 @@ If you're not sure which program fits, BEP staff will route you.
 
 ## 2. The pre-acceleration capital and mentorship layer: Launch NY
 
-[**Launch NY**](https://launchny.org/) is perhaps the most important resource in the ecosystem for most founders. It is a 501(c)(3) venture development organization and a U.S. Treasury-designated Community Development Financial Institution (CDFI). It serves 36 Upstate New York counties, is structurally independent of any university or municipality, and is the most active seed investor in New York State. CEO is Marnie LaVigne. Cumulative through 2025: 1,900+ companies served, $1.5B+ raised by portfolio companies, $275M+ in annual portfolio revenue, 9,900+ jobs supported. More than 70% of portfolio companies are in low-income neighborhoods.
+[**Launch NY**](https://launchny.org/) is perhaps the most important resource in the ecosystem for most founders. It is a 501(c)(3) venture development organization and a U.S. Treasury-designated Community Development Financial Institution (CDFI). It serves 36 Upstate New York counties, is structurally independent of any university or municipality, and is the most active seed investor in New York State. Launch NY's CEO is Marnie LaVigne, PhD. Cumulative through 2025: 1,900+ companies served, $1.5B+ raised by portfolio companies, $275M+ in annual portfolio revenue, 9,900+ jobs supported. More than 70% of portfolio companies are in low-income neighborhoods.
 
 What Launch NY actually delivers, in order of how most founders interact with them:
 
@@ -64,11 +64,18 @@ What Launch NY actually delivers, in order of how most founders interact with th
 
 [**Resource Navigator**](https://launchny.org/resource-navigator/) is Launch NY's filterable directory of more than 250 Upstate entrepreneurial resources, sortable by funding type (debt, equity, grants), region, industry, and population (women-owned, minority-owned). The single most useful supplement to this guide for founders looking beyond the headline players.
 
-[**Founders Go Big**](https://launchny.org/founders-go-big/) is Launch NY's customer-discovery program for early-stage founders refining product-market fit. Participants get personalized 1:1 mentoring, group workshops, ongoing progress review meetings with a program manager, connections to MVP funding sources, peer community programming, and access to Launch NY's broader resource network.
+[**Founders Go Big**](https://launchny.org/founders-go-big/) is designed for under-resourced entrepreneurs at the earliest stages of business growth. The program bridges the critical gap between idea and investability by providing founders with expert guidance from a program team, access to funding opportunities, and a community of peers. Founders receive personalized support tailored to their unique growth path, preparing them to secure seed-stage capital and scale their businesses.
 
-[**Emerging Cleantech Opportunity (ECO) Incubator**](https://launchny.org/eco-incubator/) is a sector-specific program for cleantech and climate-tech startups, run with NYSERDA support.
+[**Emerging Cleantech Opportunity (ECO) 2.0 Incubator**](https://launchny.org/eco-incubator/) initially funded by the New York State Energy Research and Development Authority (NYSERDA), supports Upstate NY startups developing clean energy and resilience solutions. The program equips founders with mentorship, access to capital, and connections to industry sector resources, accelerating their path to market and long-term growth.
 
-**Technical Assistance Program (SSBCI TA)** is new as of October 2025. Funded by a $1M Empire State Development grant, this provides free legal, accounting, and financial advisory services to pre-seed and seed-stage New York startups. Legal scope includes entity formation, contracts, employee agreements, ownership transfers, and equity fundraising. Statewide eligibility, not just WNY. Available to any pre-seed/seed NY startup, no UB affiliation required.
+**Technical Assistance Program (TA)** provides founders with the specialized
+expertise and guidance needed to access funding and strengthen their businesses.
+Supported by the federal State Small Business Credit Initiative (SSBCI), the TA
+Program offers no-cost services to help entrepreneurs navigate legal, accounting, and
+financial challenges that often stand between them and investment. Through this
+program, eligible startups and small businesses receive hands-on advising from trusted
+professionals – whether they’re preparing to apply for capital through SSBCI or simply
+looking to get their business investment-ready.
 
 ## 3. The accelerator: 43North
 
