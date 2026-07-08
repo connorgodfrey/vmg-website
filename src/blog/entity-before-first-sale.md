@@ -9,6 +9,8 @@ description: "No law requires you to form an LLC before selling. But until you d
 
 # Do You Really Need an Entity Before Your First Sale?
 
+<img src="/assets/entity-before-first-sale.jpg" alt="A founder shielded by a glowing liability shield beside a small shop making its first sale — LLC formation timing for early-stage founders" class="blog-hero-img" loading="lazy">
+
 New founders tend to carry one of two fears. Either they worry they are breaking a rule by selling before the paperwork exists, or they worry that forming a company too early is a waste of money. Both fears point at the same question: does the entity have to come before the first sale?
 
 The honest answer: no law says you must form an entity before you sell. Sole proprietors transact legally every day. But until you form one, *you* are the business, in the fullest sense, and for some founders that gap is cheap while for others it is the most expensive money they ever saved.
