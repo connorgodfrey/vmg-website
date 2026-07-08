@@ -9,6 +9,8 @@ description: "Most first-time founders think vesting is something Delaware start
 
 # Founder Vesting for LLCs: What Happens If a Partner Walks Away
 
+<img src="/assets/llc-founder-vesting.jpg" alt="A departing LLC co-founder walking off at sunset while the other watches — founder vesting protects the partner who stays" class="blog-hero-img" loading="lazy">
+
 Here is the scenario, and it is common enough to be a genre. Two founders split a new LLC 50/50. Eight months in, one gets a job offer, or has a baby, or just loses interest. They stop showing up. They also still own half the company, and under New York's default rules, they will own half of everything the remaining founder builds for the next decade.
 
 Nothing about forming an LLC prevents this. Preventing it takes one concept most first-time founders have never applied to an LLC: vesting.
