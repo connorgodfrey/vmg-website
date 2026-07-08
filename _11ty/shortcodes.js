@@ -4,7 +4,7 @@
 const SITE_URL  = "https://vmgba.com";
 const SITE_NAME = "VMG Business Advisory, PLLC";
 const DEFAULT_DESC  = "VMG Business Advisory, PLLC \u2014 corporate, transactional, and SMR nuclear startup advisory services nationwide.";
-const DEFAULT_IMAGE = `${SITE_URL}/assets/logo2.png`;
+const DEFAULT_IMAGE = `${SITE_URL}/assets/VMGBA.png`;
 
 /** Escape special characters for use inside HTML attribute values. */
 function attr(str) {
@@ -28,12 +28,15 @@ function attr(str) {
  *   ogImage     {string}   Full URL to override the default OG image
  *   noindex     {boolean}  Set to true to emit "noindex, nofollow" instead
  */
-function seoHead(title, description, tags, date, ogImage, noindex) {
+function seoHead(title, description, tags, date, ogImage, ogImageAlt, noindex) {
   const page      = this.page;
   const metaTitle = title || SITE_NAME;
   const metaDesc  = description || DEFAULT_DESC;
   const canonical = `${SITE_URL}${page.url}`;
-  const image     = ogImage || DEFAULT_IMAGE;
+  // Accept an absolute URL or a site-relative path; fall back to the site default.
+  const rawImage  = ogImage || DEFAULT_IMAGE;
+  const image     = /^https?:\/\//i.test(rawImage) ? rawImage : `${SITE_URL}${rawImage}`;
+  const imageAlt  = ogImageAlt || `${SITE_NAME} logo`;
   const tagList   = Array.isArray(tags) ? tags : [];
   const isBlog    = tagList.includes("blog");
   const ogType    = isBlog ? "article" : "website";
@@ -51,7 +54,7 @@ function seoHead(title, description, tags, date, ogImage, noindex) {
     `<meta property="og:type" content="${ogType}">`,
     `<meta property="og:url" content="${canonical}">`,
     `<meta property="og:image" content="${image}">`,
-    `<meta property="og:image:alt" content="${SITE_NAME} logo">`,
+    `<meta property="og:image:alt" content="${attr(imageAlt)}">`,
   ];
 
   if (isBlog && date) {

@@ -39,6 +39,13 @@ module.exports = function(eleventyConfig) {
     return m ? m[1] : null;
   });
 
+  // Extract first <img alt="..."> from rendered HTML
+  eleventyConfig.addFilter("firstImageAlt", (html) => {
+    if (!html) return null;
+    const m = String(html).match(/<img[^>]+alt=["']([^"']*)["']/i);
+    return m ? m[1] : null;
+  });
+
   return {
     dir: {
       input: "src",

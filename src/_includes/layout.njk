@@ -5,7 +5,11 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="theme-color" content="#001f3f">
 
-  {% seoHead title, description, tags, date %}
+  {% if tags and "blog" in tags %}
+    {% set ogImg = content | firstImageSrc %}
+    {% set ogAlt = content | firstImageAlt %}
+  {% endif %}
+  {% seoHead title, description, tags, date, ogImg, ogAlt %}
 
   <!-- Geo-location for local SEO -->
   <meta name="geo.region" content="US-NY">
