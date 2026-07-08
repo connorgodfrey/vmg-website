@@ -225,6 +225,30 @@ description: "VMG Business Advisory, PLLC — Buffalo, NY corporate and transact
       </article>
     {% endif %}
 
+    {# Post 6 #}
+    {% if posts[5] %}
+      {% set p = posts[5] %}
+      <article class="home-blog-card">
+        <h3>
+          <a href="{{ p.url }}" style="text-decoration: none; color: inherit;">
+            {{ p.data.title }}
+          </a>
+        </h3>
+        <p class="home-blog-meta">
+          {{ p.date | date("MMM d, yyyy") }}
+        </p>
+        {% set img5 = p.templateContent | firstImageSrc %}
+        {% if img5 %}
+          <a href="{{ p.url }}">
+            <img src="{{ img5 }}" alt="{{ p.data.title }}" loading="lazy" style="width: 50%; border-radius: 8px; margin-bottom: 6px;">
+          </a>
+        {% endif %}
+        {% if p.data.description %}
+          <p>{{ p.data.description }}</p>
+        {% endif %}
+      </article>
+    {% endif %}
+
   </div>
 </section>
 {% endif %}
