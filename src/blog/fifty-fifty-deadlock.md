@@ -61,7 +61,7 @@ Whichever form fits, two drafting points matter more than the choice among them.
 
 ## What This Costs Now Versus Later
 
-Drafting these provisions into an operating agreement is measured in hours. Litigating a § 702 petition is measured in years and six figures, and as *1545 Ocean Avenue* shows, it frequently ends with no dissolution at all: just two co-owners, poorer, still stuck. There is also a quieter benefit. Negotiating these terms while you are aligned forces the conversation every founder pair should have anyway: what happens when we disagree, and what happens if one of us wants out.
+Drafting these provisions into an operating agreement is a matter of hours if not minutes. Litigating a § 702 petition is measured in years and six figures, and as *1545 Ocean Avenue* shows, it frequently ends with no dissolution at all: just two co-owners, poorer, still stuck. There is also a quieter benefit. Negotiating these terms while you are aligned forces the conversation every founder pair should have anyway: what happens when we disagree, and what happens if one of us wants out.
 
 ---
 
@@ -69,7 +69,7 @@ Drafting these provisions into an operating agreement is measured in hours. Liti
 
 Equal ownership is a fine way to start a company. Equal ownership with no tie-breaker is a bet that two people will agree on every consequential decision for years, and if you formed a New York LLC, the courts will not bail you out if you lose that bet. If you are forming a 50/50 company, in any entity, the deadlock provisions are not boilerplate; they are the single most important pages in your governing agreement.
 
-VMG Business Advisory helps New York founders form companies and build governing agreements with working tie-breakers: defined roles, escalation ladders, and buy-sell terms fitted to the founders' actual circumstances.
+VMG Business Advisory helps founders form companies and build governing agreements with working tie-breakers: defined roles, escalation ladders, and buy-sell terms fitted to the founders' actual circumstances.
 
 ---
 
