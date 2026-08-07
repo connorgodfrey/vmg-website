@@ -27,6 +27,8 @@ The lesson: whatever protection you want has to be written into the operating ag
 
 Vesting in an LLC works much like founder stock vesting in a corporation, with different paperwork. The member receives their full percentage on day one, but the interest is subject to forfeiture (or repurchase at a nominal price) if the member stops providing services before it vests on an agreed schedule. Ownership, in other words, is earned over time even though it is granted up front.
 
+There is another way to build it, and founders often raise it because it sounds tidier: issue the units as they are earned, a slice at a time, so there is nothing to claw back and no repurchase to negotiate. For a founder taking a capital interest in a new company, it is usually the worse trade. Each issuance is its own transfer, valued the day it happens, so the better the company does the more the later slices cost in tax, and no election fixes it after the fact. Granting the whole interest at formation and letting it vest settles that question on day one, when the interest is worth close to nothing. Forfeiture and buyback mechanics are what you pay for that treatment, and they are the easier problem to solve.
+
 A few design choices matter more than the rest:
 
 - **The schedule.** The startup convention is four years with a one-year cliff: nothing vests until the first anniversary, then the balance vests monthly. That convention exists for venture-track companies; a services business might tie vesting to revenue milestones or a shorter horizon. Pick a schedule that mirrors when the founder's contribution is actually delivered.
@@ -42,11 +44,7 @@ If the interest is a **capital interest** (a share of the company's existing val
 
 If the interest is a **profits interest** (a share only of future growth, common when a new member earns in later), IRS guidance (Rev. Proc. 93-27 and Rev. Proc. 2001-43) generally allows receipt tax-free at grant if safe harbor conditions are met, even with vesting attached. Many practitioners still file a protective 83(b).
 
-The plain-English takeaway: have a tax advisor look at the grant *before* you sign it, and calendar day 30. This is the one item in company formation where being a week late is permanent.
-
-## Buyback Mechanics That Keep the Company Alive
-
-A vesting provision is only as good as the repurchase terms behind it. Three settings to negotiate up front: the **price** (nominal or return-of-capital for unvested units; a formula or appraisal for vested units, so a leaver is paid fairly but the survivors are not writing a blank check), the **payment terms** (an installment note over two to five years protects the company's cash), and the **buyer** (the company, the remaining members, or both in sequence).
+Have a tax advisor look at the grant *before* you sign it, and calendar day 30. Most formation mistakes can be cleaned up later. A missed 83(b) cannot.
 
 ## Vesting Protects Both of You
 
@@ -62,4 +60,4 @@ VMG Business Advisory drafts LLC operating agreements and membership grant docum
 
 ---
 
-*This article is provided for general informational and educational purposes only. It does not constitute legal or tax advice or create an attorney-client relationship. The information is current as of July 2026 and subject to change. Equity and tax decisions, including any Section 83(b) election, should be made with qualified legal and tax advisors reviewing your specific facts. Attorney Advertising.*
+*This article is provided for general informational and educational purposes only. It does not constitute legal or tax advice or create an attorney-client relationship. The information is current as of August 2026 and subject to change. Equity and tax decisions, including any Section 83(b) election, should be made with qualified legal and tax advisors reviewing your specific facts. Attorney Advertising.*
