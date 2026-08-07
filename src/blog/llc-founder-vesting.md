@@ -1,6 +1,6 @@
 ---
 title: "Founder Vesting for LLCs: What Happens If a Partner Walks Away"
-date: 2026-07-08
+date: 2026-08-07
 tags:
   - blog
 layout: layout.njk
@@ -50,7 +50,7 @@ A vesting provision is only as good as the repurchase terms behind it. Three set
 
 ## Vesting Protects Both of You
 
-Founders sometimes resist proposing vesting because it sounds like distrust. It is the opposite: it is symmetry. Each founder is protected from the other's departure, and the one who stays is protected from working for years to enrich the one who left. It also gives the departing founder something valuable: a clean break at a defined price instead of an open-ended fight. And if the company ever raises outside money, investors will require founder vesting anyway; you are simply deciding the terms yourselves instead of having them imposed later.
+Founders sometimes resist proposing vesting because it sounds like distrust. It is the opposite: it is symmetry. Each founder is protected from the other's departure, and the one who stays is protected from working for years to enrich the one who left. It also gives the departing founder something valuable: [a clean break at a defined price](/blog/fifty-fifty-deadlock/) instead of an open-ended fight. And if the company ever raises outside money, investors will require founder vesting anyway; you are simply deciding the terms yourselves instead of having them imposed later.
 
 ---
 
