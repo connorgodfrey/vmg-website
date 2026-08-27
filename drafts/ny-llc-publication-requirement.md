@@ -9,6 +9,8 @@ description: "New York makes new LLCs announce themselves in two newspapers for 
 
 # The New York LLC Publication Requirement, Explained
 
+<img src="/assets/ny-llc-publication-requirement.jpg" alt="A Public Notice newspaper beside a New York state cutout and a domed state capitol — the LLC publication requirement means six weeks in two papers" class="blog-hero-img" loading="lazy">
+
 In most states, forming an LLC is one step: file, pay, done. New York kept a second step from an earlier era. After you form (or register) an LLC here, you must announce it in the newspaper. Twice over, for six weeks, in papers you don't get to choose, at prices that vary wildly by county.
 
 Founders react to this in two ways: as a surprise invoice that arrives after they thought they were finished, or as a known line item they budgeted from the start. The only difference between those founders is that someone told the second group. Consider this memo someone telling you.

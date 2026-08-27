@@ -9,6 +9,8 @@ description: "Two people building a business and sharing what it earns are alrea
 
 # Partnership by Accident: What New York's Default Rules Do to You Without an Operating Agreement
 
+<img src="/assets/partnership-by-accident.jpg" alt="Two partners recoil from a bear trap labeled with New York's default partnership rules — shared losses, fiduciary duties, joint and several liability" class="blog-hero-img" loading="lazy">
+
 Founders describe it the same way almost every time: "We haven't set up the legal stuff yet." Meaning no LLC, no lawyer, nothing signed. Just two people building something and splitting what comes in.
 
 New York disagrees with the premise. If that describes you, the legal stuff is already set up. You have a general partnership, formed the moment you started carrying on a business together for profit, and it came with a complete set of terms drafted by the state legislature. You have simply never read them.
