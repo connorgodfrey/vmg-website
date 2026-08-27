@@ -11,7 +11,7 @@ description: "Equal ownership among founders can feel fair, and it can work. But
 
 <img src="/assets/fifty-fifty-deadlock.jpg" alt="Two 50/50 co-founders in a standoff over a split pie chart — deadlock in an equal-owner company" class="blog-hero-img" loading="lazy">
 
-Most two-founder companies start the same way: a good idea, a lot of trust, and a handshake on an even split. The 50/50 instinct is usually a healthy sign. It says the founders see each other as equals and neither is trying to grab control at the start.
+Most two-founder companies start the same way: a good idea, a lot of trust, and [a handshake on an even split](/blog/founder-equity-splits/). The 50/50 instinct is usually a healthy sign. It says the founders see each other as equals and neither is trying to grab control at the start.
 
 The problem is not fairness. The problem is arithmetic. Almost every decision a company makes requires a majority, and 50 is not a majority of 100. That is true whether the company is an LLC, a corporation with two equal shareholders, or a two-person partnership. What differs by entity type, and dramatically, is what happens after the tie.
 

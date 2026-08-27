@@ -1,6 +1,6 @@
 ---
 title: "Founder Vesting for LLCs: What Happens If a Partner Walks Away"
-date: 2026-08-07
+date: 2026-08-27
 tags:
   - blog
 layout: layout.njk

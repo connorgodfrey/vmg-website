@@ -1,6 +1,6 @@
 ---
 title: "How to Split Founder Equity When \"Equal\" Isn't Obvious"
-date: 2026-07-08
+date: 2026-08-27
 tags:
   - blog
 layout: layout.njk
@@ -8,6 +8,8 @@ description: "50/50 is the most common founder split and the least examined. Whe
 ---
 
 # How to Split Founder Equity When "Equal" Isn't Obvious
+
+<img src="/assets/founder-equity-splits.jpg" alt="Four co-founders watch a scale tip: time invested, skills, and risk taken outweigh a single equity-share block — splitting equity by real contribution" class="blog-hero-img" loading="lazy">
 
 The equity conversation is the one founders most want to skip. So most skip it, and the skip has a name: 50/50. Sometimes that is the right answer arrived at honestly. Just as often it is a way to avoid an awkward hour, and it is frequently proposed by the *more* experienced or better-resourced founder, out of generosity or a desire to signal partnership.
 
@@ -38,7 +40,7 @@ A detail that surprises founders: if you form a New York LLC and never address t
 
 **2. A dynamic split.** Instead of fixing percentages on day one, ownership accrues based on logged contributions (hours, cash, deliverables) until a defined freeze event such as a financing or a revenue threshold. This approach, popularized as "Slicing Pie," is the most honest when the future is murky, and the most administratively demanding, since it only works if the logging actually happens. Best for founder pairs with real uncertainty about relative commitment.
 
-**3. Equal control, unequal economics.** The most useful and least known option, and a place where the LLC form earns its keep. An operating agreement can separate the three things a percentage usually bundles: votes, profits, and capital. You can hold governance at 50/50 (equal partners in every decision) while the economics reflect reality: the cash founder's contribution comes back first through a distribution preference or is treated as a loan; the full-time founder draws a guaranteed payment (the LLC version of a salary) before profits split; residual profits can split on any ratio you choose, and can even shift over time. Most "we must be 50/50" standoffs are actually about respect and control, not money. Give control its own dial and the money conversation gets much easier.
+**3. Equal control, unequal economics.** The most useful and least known option, and a place where the LLC form earns its keep. An operating agreement can separate the three things a percentage usually bundles: votes, profits, and capital. You can [hold governance at 50/50](/blog/fifty-fifty-deadlock/) (equal partners in every decision) while the economics reflect reality: the cash founder's contribution comes back first through a distribution preference or is treated as a loan; the full-time founder draws a guaranteed payment (the LLC version of a salary) before profits split; residual profits can split on any ratio you choose, and can even shift over time. Most "we must be 50/50" standoffs are actually about respect and control, not money. Give control its own dial and the money conversation gets much easier.
 
 ## Let Time Referee: Vesting as the Fallback
 
@@ -58,4 +60,4 @@ VMG Business Advisory helps founder teams structure equity splits, distribution 
 
 ---
 
-*This article is provided for general informational and educational purposes only. It does not constitute legal or tax advice or create an attorney-client relationship. The information is current as of July 2026 and subject to change. Equity allocations have legal and tax consequences that depend on your specific facts; consult qualified advisors before acting. Attorney Advertising.*
+*This article is provided for general informational and educational purposes only. It does not constitute legal or tax advice or create an attorney-client relationship. The information is current as of August 2026 and subject to change. Equity allocations have legal and tax consequences that depend on your specific facts; consult qualified advisors before acting. Attorney Advertising.*
