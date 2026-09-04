@@ -1,6 +1,6 @@
 ---
 title: "The New York LLC Publication Requirement, Explained"
-date: 2026-07-08
+date: 2026-09-04
 tags:
   - blog
 layout: layout.njk
@@ -74,4 +74,4 @@ VMG Business Advisory quotes New York formation with publication costs stated up
 
 ---
 
-*This article is provided for general informational and educational purposes only. It does not constitute legal advice or create an attorney-client relationship. Publication costs are approximate 2026 figures and vary by county and newspaper; the information is current as of July 2026 and subject to change. Attorney Advertising.*
+*This article is provided for general informational and educational purposes only. It does not constitute legal advice or create an attorney-client relationship. Publication costs are approximate 2026 figures and vary by county and newspaper; the information is current as of September 2026 and subject to change. Attorney Advertising.*
