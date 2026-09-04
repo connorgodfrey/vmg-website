@@ -13,7 +13,7 @@ description: "New York makes new LLCs announce themselves in two newspapers for 
 
 In most states, forming an LLC is one step: file, pay, done. New York kept a second step from an earlier era. After you form (or register) an LLC here, you must announce it in the newspaper. Twice over, for six weeks, in papers you don't get to choose, at prices that vary wildly by county.
 
-Founders react to this in two ways: as a surprise invoice that arrives after they thought they were finished, or as a known line item they budgeted from the start. The only difference between those founders is that someone told the second group. Consider this memo someone telling you.
+It is a predictable, one-time cost, but only if you know about it before you file. Budgeted at formation, it is a line item. Discovered afterward, it is an unwelcome invoice arriving when you thought you were finished.
 
 ---
 
@@ -23,10 +23,10 @@ Under Limited Liability Company Law § 206, within 120 days after your articles 
 
 - **Publish a notice** (or a copy of the articles) once per week for **six successive weeks**,
 - in **two newspapers** in the county where the LLC's office is located per its articles, one printed **daily** and one printed **weekly**,
-- with the specific papers **designated by the county clerk**, not selected by you,
+- with the papers drawn from those the **county clerk designates** for that county, so your choice is limited to the clerk's approved list rather than any paper you like,
 - then file a **Certificate of Publication** with the Department of State, with the newspapers' affidavits of publication attached and a **$50 filing fee**.
 
-The same requirement applies to out-of-state LLCs that register to do business in New York, measured from the filing of their application for authority. Corporations, for what it's worth, do not publish; this is an LLC (and LP) ritual.
+The same requirement applies to out-of-state LLCs that register to do business in New York, measured from the filing of their application for authority. [Corporations](/blog/entity-selection/), for what it's worth, do not publish; this is an LLC (and LP) ritual.
 
 ## What It Costs: The County Is Everything
 
@@ -38,19 +38,21 @@ You can arrange publication yourself (call the county clerk for the designated p
 
 Because the bill follows the county designated in your articles, a cottage industry exists around designating a low-cost county (commonly Albany) as the LLC's office, often via a registered agent's address, and publishing there at a fraction of the Manhattan price. Founders ask about this frequently, so here is the even-handed version.
 
-The county designation in your articles is what drives publication, and the statute does not require that designated office to be where you actually work. But there are trade-offs. The Department of State mails service of process to the address on file, so a legal complaint against your company routes through that address; the forwarding chain needs to be real and reliable. And if you later amend your articles to move the designated county, you can trigger the publication requirement again in the new county, paying twice for the thing you optimized once. If the savings are large (a Manhattan business, for example), it is worth a conversation with counsel; if you are already in an inexpensive county like Erie, it is rarely worth the complexity.
+The county designation in your articles is what drives publication, and the statute does not require that designated office to be where you actually work. But there are trade-offs. The Department of State mails service of process to the address on file, so a legal complaint against your company routes through that address. In practice that means engaging a registered agent in the designated county and paying a recurring fee for the service, which offsets part of the one-time publication savings. And if you later amend your articles to move the designated county, you can trigger the publication requirement again in the new county, paying twice for the thing you optimized once. If the savings are large (a Manhattan business, for example), it is worth a conversation with counsel; if you are already in an inexpensive county like Erie, it is rarely worth the complexity.
 
 ## What Actually Happens If You Skip It
 
-Here is where the internet oversells the drama. If you do not complete publication within 120 days, the LLC's authority to carry on business in New York is **suspended** until you comply. What suspension does *not* do:
+If you do not complete publication within 120 days, the LLC's authority to carry on business in New York is **suspended** until you comply. The consequence that matters most: a suspended LLC cannot maintain an action or special proceeding in a New York court. Section 206 expressly preserves your right to *defend* a case, and preserves every right your counterparties hold against you, but it does not preserve your ability to sue. Courts have dismissed actions brought by LLCs that had not published. If a customer stops paying while you are suspended, you cannot enforce the contract until you cure.
+
+What suspension does *not* do:
 
 - It does not dissolve your LLC.
 - It does not void your contracts or excuse counterparties from performing.
-- It does not strip your limited liability. Members are not personally exposed because the company skipped its newspaper notices.
+- It does not strip your limited liability. Section 206 imposes no personal liability on members for the company's failure to publish.
 
-And the suspension lifts once you complete publication and file the certificate, whenever that happens; late compliance costs the same as timely compliance.
+The statute sets no late fee and no penalty. Filing proof of publication annuls the suspension whenever it happens, so late compliance costs the same as timely compliance.
 
-So why comply at all? Because the suspension bites exactly when someone checks: banks and lenders ask for the Certificate of Publication when opening accounts or extending credit; landlords, investors, and closing counsel ask during diligence. The typical failure mode is discovering the gap under deal pressure and fixing it in a hurry, at the same price you would have paid anyway plus the stress. It is a strange requirement, but it is a one-time, fixed-cost requirement. Treat it as part of the formation budget and it never becomes a story.
+Beyond litigation, the suspension surfaces whenever someone checks: banks and lenders ask for the Certificate of Publication when opening accounts or extending credit; landlords, investors, and closing counsel ask during diligence. The typical failure mode is discovering the gap under deal pressure and fixing it in a hurry, at the same price you would have paid anyway plus the stress. It is a strange requirement, but it is a one-time, fixed-cost requirement. Treat it as part of the formation budget and it never becomes a story.
 
 ## Don't Confuse Publication with the New Transparency Filings
 
