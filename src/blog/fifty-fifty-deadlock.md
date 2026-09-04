@@ -71,6 +71,8 @@ Equal ownership is a fine way to start a company. Equal ownership with no tie-br
 
 VMG Business Advisory helps founders form companies and build governing agreements with working tie-breakers: defined roles, escalation ladders, and buy-sell terms fitted to the founders' actual circumstances.
 
+**Related practice areas:** [Startup Advisory](/practice-areas/startup-advisory/) · [Corporate Governance](/practice-areas/corporate-governance/)
+
 ---
 
 *This article is provided for general informational and educational purposes only. It does not constitute legal advice or create an attorney-client relationship. The information is current as of July 2026 and subject to change. Before adopting any governance or buy-sell mechanism, consult qualified counsel about your specific situation. Attorney Advertising.*

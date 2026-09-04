@@ -4,7 +4,7 @@ date: 2026-09-04
 tags:
   - blog
 layout: layout.njk
-description: "New York makes new LLCs announce themselves in two newspapers for six weeks, and the price ranges from a few hundred dollars upstate to nearly two thousand in Manhattan. What § 206 actually requires, what happens if you skip it, and how the county you designate drives the bill."
+description: "New York makes new LLCs announce themselves in two newspapers for six weeks, and the price runs from a few hundred dollars upstate to substantially more in New York City. What § 206 actually requires, what happens if you skip it, and how the county you designate drives the bill."
 ---
 
 # The New York LLC Publication Requirement, Explained
@@ -30,11 +30,7 @@ The same requirement applies to out-of-state LLCs that register to do business i
 
 ## What It Costs: The County Is Everything
 
-The state's fee is only the $50 certificate. The real cost is the newspaper advertising, and because the county clerk designates the papers, the county named in your articles sets your price. Approximate all-in figures as of 2026:
-
-- **Manhattan (New York County):** roughly $1,450 to $1,950, the most expensive place in the state to publish.
-- **Erie County:** roughly $400 to $700 all-in; publication services quote around $395 plus the state fee. Buffalo is one of the cheaper major markets.
-- **Albany County:** among the cheapest in the state, roughly $230 to $400 all-in.
+The state's fee is only the $50 certificate. The real cost is the newspaper advertising, and because the county clerk designates the papers, the county named in your articles sets your price. Budget a few hundred dollars in most of the state, and materially more in New York City, where the designated dailies are among the most expensive places in the country to run a legal notice. Rates move, and they depend on which papers the clerk assigns, so get a current quote before you file.
 
 You can arrange publication yourself (call the county clerk for the designated papers, then order the notices) or pay a publication service a modest markup to handle the whole sequence and the affidavits.
 
@@ -71,6 +67,8 @@ Budget publication with formation, not after it. When the articles are filed, ge
 The publication requirement is New York's most reliable formation surprise: a real cost, a fixed cost, and a survivable one. Founders who know about it in advance budget a few hundred dollars (in Erie County) and move on. Founders who don't, meet it at the worst possible moment, usually across the table from a bank. Know the quirk, price it in, and it is paperwork rather than drama.
 
 VMG Business Advisory quotes New York formation with publication costs stated up front and handles the designation, publication, and certificate filing as part of the engagement.
+
+**Related practice areas:** [Startup Advisory](/practice-areas/startup-advisory/) · [Corporate Governance](/practice-areas/corporate-governance/)
 
 ---
 

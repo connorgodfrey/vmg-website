@@ -62,6 +62,8 @@ There is nothing wrong with 50/50 where it reflects the contributions. Two found
 
 VMG Business Advisory helps founder teams structure equity splits, distribution waterfalls, and vesting in New York LLC operating agreements, including the joint-representation disclosures that co-founder engagements require.
 
+**Related practice areas:** [Startup Advisory](/practice-areas/startup-advisory/) · [Corporate Governance](/practice-areas/corporate-governance/)
+
 ---
 
 *This article is provided for general informational and educational purposes only. It does not constitute legal or tax advice or create an attorney-client relationship. The information is current as of August 2026 and subject to change. Equity allocations have legal and tax consequences that depend on your specific facts; consult qualified advisors before acting. Attorney Advertising.*

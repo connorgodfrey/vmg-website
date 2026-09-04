@@ -58,6 +58,8 @@ An LLC without vesting is a promise that every founder will stay until the end, 
 
 VMG Business Advisory drafts LLC operating agreements and membership grant documents with vesting, buyback, and leaver provisions fitted to how founders actually work, and coordinates with your tax advisor on the election deadlines.
 
+**Related practice areas:** [Startup Advisory](/practice-areas/startup-advisory/) · [Corporate Governance](/practice-areas/corporate-governance/)
+
 ---
 
 *This article is provided for general informational and educational purposes only. It does not constitute legal or tax advice or create an attorney-client relationship. The information is current as of August 2026 and subject to change. Equity and tax decisions, including any Section 83(b) election, should be made with qualified legal and tax advisors reviewing your specific facts. Attorney Advertising.*
