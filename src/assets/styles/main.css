@@ -120,6 +120,26 @@
   display: block;
 }
 
+.about-bio__linkedin {
+  display: inline-flex;
+  align-items: center;
+  gap: 7px;
+  margin-top: 12px;
+  color: #001f3f;
+  font-size: 0.95rem;
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.about-bio__linkedin:hover { text-decoration: underline; }
+
+.about-bio__linkedin svg {
+  width: 18px;
+  height: 18px;
+  flex-shrink: 0;
+  fill: currentColor;
+}
+
 @media (max-width: 640px) {
   .about-bio {
     flex-direction: column;
@@ -130,5 +150,6 @@
     width: 100%;
     max-width: 280px;
     margin: 0 auto;
+    text-align: center;
   }
 }

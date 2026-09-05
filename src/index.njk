@@ -66,6 +66,54 @@ description: "VMG Business Advisory, PLLC — Buffalo, NY corporate and transact
     color: #666;
     margin-bottom: 6px;
   }
+
+  /* Google rating trust bar */
+  .gr {
+    text-align: center;
+    margin: 0 0 18px 0;
+  }
+  .gr a {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    text-decoration: none;
+    color: #444;
+    font-size: 0.95rem;
+    padding: 5px 12px;
+    border: 1px solid #e0e4e8;
+    border-radius: 999px;
+    transition: border-color 0.15s, box-shadow 0.15s;
+  }
+  .gr a:hover {
+    border-color: #001f3f;
+    box-shadow: 0 2px 8px rgba(0,31,63,0.1);
+  }
+  .gr__score {
+    font-weight: 700;
+    color: #1a1a1a;
+  }
+  /* Grey stars underneath, gold stars clipped to the rating on top. */
+  .gr__stars {
+    position: relative;
+    display: inline-block;
+    color: #d8dce0;
+    letter-spacing: 1px;
+    line-height: 1;
+  }
+  .gr__stars span {
+    position: absolute;
+    top: 0;
+    left: 0;
+    overflow: hidden;
+    white-space: nowrap;
+    color: #f5a623;
+  }
+  .gr__count {
+    color: #666;
+  }
+  @media (max-width: 420px) {
+    .gr a { font-size: 0.88rem; gap: 6px; padding: 5px 10px; }
+  }
 </style>
 
 <div class="hero">
@@ -79,6 +127,17 @@ description: "VMG Business Advisory, PLLC — Buffalo, NY corporate and transact
   Practical legal and strategic guidance for businesses, founders, and investors.<br>
   <span style="font-size: 0.85em; color: #555;">Based in <a href="/buffalo-corporate-attorney/" style="color: #555;">Buffalo, NY</a> &mdash; Serving clients nationwide.</span>
 </p>
+
+{% if reviews and reviews.count %}
+<p class="gr">
+  <a href="{{ reviews.url }}" target="_blank" rel="noopener"
+     aria-label="Rated {{ reviews.rating | fixed(1) }} out of 5 from {{ reviews.count }} Google reviews. Opens Google Maps in a new tab.">
+    <span class="gr__score">{{ reviews.rating | fixed(1) }}</span>
+    <span class="gr__stars" aria-hidden="true">&#9733;&#9733;&#9733;&#9733;&#9733;<span style="width: {{ (reviews.rating / 5 * 100) | round(1) }}%">&#9733;&#9733;&#9733;&#9733;&#9733;</span></span>
+    <span class="gr__count">{{ reviews.count }} Google review{% if reviews.count != 1 %}s{% endif %}</span>
+  </a>
+</p>
+{% endif %}
 
 <h2><a href="/practice-areas/" style="text-decoration: none; color: inherit;">Practice Areas</a></h2>
 

@@ -32,6 +32,12 @@ module.exports = function(eleventyConfig) {
     return dt.isValid ? dt.toFormat(format) : "";
   });
 
+  // Fixed-decimal number formatting, e.g. 5 -> "5.0"
+  eleventyConfig.addFilter("fixed", (n, digits = 1) => {
+    const num = Number(n);
+    return Number.isFinite(num) ? num.toFixed(digits) : "";
+  });
+
   // Extract first <img src="..."> from rendered HTML
   eleventyConfig.addFilter("firstImageSrc", (html) => {
     if (!html) return null;
