@@ -1,6 +1,6 @@
 ---
 title: "Partnership by Accident: What New York's Default Rules Do to You Without an Operating Agreement"
-date: 2026-07-08
+date: 2026-09-10
 tags:
   - blog
 layout: layout.njk
@@ -50,6 +50,8 @@ You do not get to choose whether your business has a legal structure; you only g
 
 VMG Business Advisory converts accidental partnerships into properly structured New York LLCs: formation, publication, and operating agreements that replace the defaults with terms the founders actually chose.
 
+**Related practice areas:** [Startup Advisory](/practice-areas/startup-advisory/) · [Corporate Governance](/practice-areas/corporate-governance/)
+
 ---
 
-*This article is provided for general informational and educational purposes only. It does not constitute legal advice or create an attorney-client relationship. The information is current as of July 2026 and subject to change. Whether a partnership exists, and the consequences if one does, depend on specific facts; consult qualified counsel about your situation. Attorney Advertising.*
+*This article is provided for general informational and educational purposes only. It does not constitute legal advice or create an attorney-client relationship. The information is current as of September 2026 and subject to change. Whether a partnership exists, and the consequences if one does, depend on specific facts; consult qualified counsel about your situation. Attorney Advertising.*
