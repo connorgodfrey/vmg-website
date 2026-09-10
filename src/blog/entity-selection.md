@@ -204,4 +204,4 @@ VMG Business Advisory can assist with entity formation, corporate governance, an
 
 ---
 
-**Related practice areas:** [Entity Formation & Corporate Governance](/practice-areas/entity-formation-corporate-governance/) · [Private Placements & Securities](/practice-areas/private-placements-securities/) · [Start-Up Counseling](/practice-areas/startup-advisory/)
+**Related practice areas:** [Corporate Governance](/practice-areas/corporate-governance/) · [Private Placements & Securities](/practice-areas/private-placements-securities/) · [Start-Up Counseling](/practice-areas/startup-advisory/)

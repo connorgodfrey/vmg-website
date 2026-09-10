@@ -139,7 +139,7 @@ VMG Business Advisory can assist with structuring advisor and consultant arrange
 
 ---
 
-**Related practice areas:** [Private Placements & Securities](/practice-areas/private-placements-securities/) · [Start-Up Counseling](/practice-areas/startup-advisory/) · [Entity Formation & Corporate Governance](/practice-areas/entity-formation-corporate-governance/)
+**Related practice areas:** [Private Placements & Securities](/practice-areas/private-placements-securities/) · [Start-Up Counseling](/practice-areas/startup-advisory/) · [Corporate Governance](/practice-areas/corporate-governance/)
 
 [^1]: 15 U.S.C. § 78o(a)(1).
 
