@@ -36,11 +36,19 @@ So the DBA is legally required if you use a trade name. What it is not, is prote
 "Before the first sale" is the wrong marker anyway. Several clocks start earlier:
 
 - **Liability** begins with your first promise, your first delivered advice, your first workshop, not your first invoice. Free pilots and beta clients can sue too.
-- **Sales tax**, if you will sell taxable goods or services, requires a New York Certificate of Authority at least 20 days *before* you begin making taxable sales. (Many services are not taxable in New York; whether yours is deserves a real answer, not a guess.)
+- **Sales tax**, if you will sell taxable goods or services, requires a New York Certificate of Authority at least 20 days *before* you begin making taxable sales, with penalties covered below. (Many services are not taxable in New York; whether yours is deserves a real answer, not a guess.)
 - **Contracts** signed now bind you personally, permanently, as covered above.
 - **Your name** is not reserved by using it. The entity filing takes the name at the state level; trademark protection is a separate track worth checking early with a USPTO search.
 
 Business insurance deserves a mention here: a general liability or professional liability policy is the one tool that meaningfully bridges a short pre-entity period, and it remains essential after formation. Insurance and an LLC answer different risks; the mature setup is both.
+
+## Paperwork an LLC Won't Fix
+
+The entity question is about who answers for the business's debts. A separate set of filings carries its own penalties, and forming an LLC satisfies none of them. Several reach you personally even after you form one.
+
+- **Sales tax registration.** If you will make taxable sales, you must register with the Tax Department and receive a Certificate of Authority at least 20 days before you begin. Operating without one carries a penalty of up to $500 for the first day and $200 for each day after, to a maximum of $10,000. The larger exposure is the tax itself: owners, members, and officers responsible for collecting sales tax are personally liable for it, jointly with the business. The LLC does not shield it.
+- **Assumed name certificate.** Covered above, with one addition: forming an LLC does not end the requirement. An LLC doing business under any name other than its legal one must file its own certificate, with the Department of State rather than the county clerk.
+- **Your first employee.** Hiring triggers workers' compensation, disability, and Paid Family Leave coverage. Going without workers' compensation costs up to $2,000 for every 10 days uncovered, leaves you paying an injured employee's wage and medical benefits yourself, can bring a stop-work order, and is a crime; sole proprietors, partners, and corporate officers are personally liable for the penalties. The Wage Theft Prevention Act adds a written pay-rate notice at hiring and a wage statement with every paycheck, and an employee can recover up to $5,000 for each kind of failure.
 
 ## What Formation Actually Costs in New York, and How Long It Takes
 
