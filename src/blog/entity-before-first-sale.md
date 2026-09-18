@@ -1,6 +1,6 @@
 ---
 title: "Do You Really Need an Entity Before Your First Sale?"
-date: 2026-07-08
+date: 2026-09-18
 tags:
   - blog
 layout: layout.njk
@@ -44,7 +44,7 @@ Business insurance deserves a mention here: a general liability or professional 
 
 ## What Formation Actually Costs in New York, and How Long It Takes
 
-The New York LLC math, current as of mid-2026: $200 to file Articles of Organization, an EIN from the IRS for free, and the operating agreement, which is where the real lawyering lives. Filing takes days, not months, and expedited processing is available. New York's one quirk is the newspaper publication requirement: within 120 days of formation you must publish notices for six weeks and file a $50 certificate, at a total cost of very roughly $300 to $2,000 depending on your county (Erie County runs about $400 to $700 all-in). Publication does not delay you; you can operate normally during the window. The recent transparency laws, for what it's worth, are not a burden here: federal beneficial-ownership reporting currently exempts U.S.-formed companies, and New York's new LLC Transparency Act applies only to LLCs formed outside the United States.
+The New York LLC math, current as of mid-2026: $200 to file Articles of Organization, an EIN from the IRS for free, and the operating agreement, which is where the real lawyering lives. Filing takes days, not months, and expedited processing is available. New York's one quirk is the [newspaper publication requirement](/blog/ny-llc-publication-requirement/): within 120 days of formation you must publish notices for six weeks and file a $50 certificate. Budget a few hundred dollars in most of the state, and materially more in New York City. Publication does not delay you; you can operate normally during the window. The recent transparency laws, for what it's worth, are not a burden here: federal beneficial-ownership reporting currently exempts U.S.-formed companies, and New York's new LLC Transparency Act applies only to LLCs formed outside the United States.
 
 So the true cost of "doing it right" in New York is a few hundred to a couple thousand dollars of fees plus the cost of documents that fit your deal. Against personal exposure to every business obligation, that is not a large number.
 
@@ -67,6 +67,8 @@ The fear that you are doing it wrong by selling early is usually misplaced; the 
 
 VMG Business Advisory handles New York LLC formation end to end (articles, operating agreement, EIN, and publication logistics) with costs quoted up front.
 
+**Related practice areas:** [Startup Advisory](/practice-areas/startup-advisory/) · [Corporate Governance](/practice-areas/corporate-governance/)
+
 ---
 
-*This article is provided for general informational and educational purposes only. It does not constitute legal or tax advice or create an attorney-client relationship. The information is current as of July 2026 and subject to change. Whether and when to form an entity depends on your specific facts; consult qualified counsel before relying on any general guidance. Attorney Advertising.*
+*This article is provided for general informational and educational purposes only. It does not constitute legal or tax advice or create an attorney-client relationship. The information is current as of September 2026 and subject to change. Whether and when to form an entity depends on your specific facts; consult qualified counsel before relying on any general guidance. Attorney Advertising.*
