@@ -19,7 +19,7 @@ New York disagrees with the premise. If that describes you, the legal stuff is a
 
 ## How You Formed a Partnership Without Noticing
 
-Partnership Law § 10 defines a partnership as an association of two or more persons carrying on a business as co-owners for profit. That is the entire test. No filing, no written agreement, no handshake, and no intent to "form a partnership" is required; courts look at what you are doing, not what you meant. And under § 11, sharing the profits of a business is prima facie evidence that you are partners. Splitting the Venmo from your first paid workshop may have done more legal work than you realized.
+Partnership Law § 10 defines a partnership as an association of two or more persons carrying on a business as co-owners for profit. Nothing has to be filed or put in writing, and you do not have to call it a partnership or know you have formed one. When the question is disputed, courts look at the relationship as a whole: whether you intended to run the business together, share its profits and losses, manage it jointly, and pool money, property, or skill. No single factor decides it. And under § 11, sharing the profits of a business is prima facie evidence that you are partners. Splitting the Venmo from your first paid workshop may have done more legal work than you realized.
 
 ## The Terms You Never Negotiated
 
