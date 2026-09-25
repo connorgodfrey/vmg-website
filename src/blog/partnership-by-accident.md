@@ -4,7 +4,7 @@ date: 2026-09-10
 tags:
   - blog
 layout: layout.njk
-description: "Two people building a business and sharing what it earns are already a general partnership under New York law. No filing, no signature, no intent required. Here are the terms you agreed to without reading them, and the document that replaces all of them."
+description: "Two people building a business and sharing what it earns may already be a general partnership under New York law, with nothing filed or signed. Here are the terms you agreed to without reading them, and the document that replaces all of them."
 ---
 
 # Partnership by Accident: What New York's Default Rules Do to You Without an Operating Agreement

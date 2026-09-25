@@ -1,9 +1,22 @@
 // .eleventy.js
 const { DateTime } = require("luxon");
 const registerShortcodes = require("./_11ty/shortcodes");
+const markdownItFootnote = require("markdown-it-footnote");
 
 module.exports = function(eleventyConfig) {
   registerShortcodes(eleventyConfig);
+
+  // Footnotes: [^1] references render as superscript links to a notes list.
+  // amendLibrary keeps Eleventy's own markdown-it options untouched.
+  eleventyConfig.amendLibrary("md", (mdLib) => {
+    mdLib.use(markdownItFootnote);
+    // Plain superscript numeral instead of the plugin's default "[1]".
+    mdLib.renderer.rules.footnote_caption = (tokens, idx) => {
+      let n = Number(tokens[idx].meta.id + 1).toString();
+      if (tokens[idx].meta.subId > 0) n += ":" + tokens[idx].meta.subId;
+      return n;
+    };
+  });
   // Copy static assets from src/assets → /assets
   eleventyConfig.addPassthroughCopy("src/assets");
   eleventyConfig.addPassthroughCopy("src/robots.txt");

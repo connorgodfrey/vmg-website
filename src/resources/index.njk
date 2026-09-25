@@ -83,8 +83,8 @@ permalink: /resources/
       <p class="tpl-meta">Last updated: {{ t.updated | date("MMM d, yyyy") }}</p>
       <p>{{ t.description }}</p>
 
-      <a class="btn" href="{{ t.file }}" download type="application/msword" aria-label="Download {{ t.name }}">
-        Download .doc
+      <a class="btn" href="{{ t.file }}" download type="application/vnd.openxmlformats-officedocument.wordprocessingml.document" aria-label="Download {{ t.name }}">
+        Download .docx
       </a>
     </div>
   {% endfor %}
