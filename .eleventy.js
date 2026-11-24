@@ -35,13 +35,14 @@ module.exports = function(eleventyConfig) {
     return collectionApi.getFilteredByGlob("./src/blog/*.md");
   });
 
-  // Date filter using Luxon in ET
+  // Date filter. Frontmatter dates (YYYY-MM-DD) are parsed by Eleventy as UTC midnight,
+  // so format in UTC; converting to ET would shift every post back one day.
   eleventyConfig.addFilter("date", (dateObj, format = "MMMM d, yyyy") => {
     if (!dateObj) return "";
     const dt =
       dateObj instanceof Date
-        ? DateTime.fromJSDate(dateObj, { zone: "America/New_York" })
-        : DateTime.fromISO(String(dateObj), { zone: "America/New_York" });
+        ? DateTime.fromJSDate(dateObj, { zone: "utc" })
+        : DateTime.fromISO(String(dateObj), { zone: "utc" });
     return dt.isValid ? dt.toFormat(format) : "";
   });
 
